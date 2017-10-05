@@ -25,8 +25,8 @@ deploy:
   project: devfestizmir17
   token:
     secure: BMfXazkNsielS9Y6X0uzs6C9ZH83BkegdUoNDn/HquUW8P6oJpxnZAJEUBxCZSUqkU9tPkdraPBJ7HaNhu1f/zvgNmADiykM42Ep84t4GfnolS+mw85e80dS2C9Q7kbNHtWLe5hEVNm0ncnAoMz/fVeypAx6+QcU5WBqvvrPVBy77PmhTorBChwSpRLgqe8io7J+d+EiUh1xvcy1cnHT4O6yU61tRB8BQgYoWSiIVhnh7bhuxNFq1vpx6QSMkqOEilkL+t6FK3nBdnZnTsldv88mtkIYhjmGI9OC+Xvs66HgZkDCBsQCXO7dxnCcZjdjZPoOT3Up8mHzBMo23lvXmT09qUzgrA0FLRc2c58odEO696bXnXXHqpvzLNPexgC52dO63xkeVW7/pEPzXAhij4rCfwstyDUebaMBS3lmZAVDhNI8dYwDLNmNaDpci+4XUWSqOb55A9vwcfIBO3UhCeiUVy18sD2HrHXJuP557Fe4Pd5DfuG0GfCcc4JEqj4IanIzmE7NwNYOO388vRVrhbLfOCJ6tZNDQ4UtaXmLWzc79Z903BK6QoYzy2A+ZQD5GZFKGXy+pidHRLaat5abJ1aNp10mIAaHnImObKACfqJYyeo3JadG+OX7RyQ20297I8g2a5FQZAwVK/0Z7J5yb2NCHl2yxyu7zOdINAiA31w=
-- provider: firebase
-  skip_cleanup: true
+# - provider: firebase
+#   skip_cleanup: true
   # on:
   #   branch: develop
   # project: hoverboard-dev
