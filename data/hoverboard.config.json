@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "devfestizmir17",
+    "domain": "devfestizmir17.firebaseapp.com",
+    "database": "https://devfestizmir17.firebaseio.com",
+    "api": "AIzaSyCt52ZiOozc7g4CwTD0QRTHojQ0HLI5aUY",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
