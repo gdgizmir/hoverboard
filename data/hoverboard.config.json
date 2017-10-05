@@ -1,17 +1,17 @@
 {
   "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "startDate": "2017-12-03T10:00:00+03:00",
+  "endDate": "2017-12-03T19:00:00+03:00",
   "analytics": {
     "prod": "UA-43643469-8",
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Izmir",
+    "twitter": "izmirgdg"
   },
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "DevFest Izmir",
     "themeColor": "#F57C00",
     "backgroundColor": "#F57C00"
   },
@@ -29,23 +29,19 @@
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "dateFormat": {
-    "locale": "en-US",
+    "locale": "tr-TR",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "devfestizmir",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "",
   "enableSessionsRating": true,
   "navigation": [
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
     },
     {
       "route": "schedule",
@@ -54,47 +50,38 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
     }
   ],
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "izmirgdg",
+      "url": "https://twitter.com/izmirgdg"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "GdgizmirOrg",
+      "url": "https://plus.google.com/+GdgizmirOrg"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "gdgizmir",
+      "url": "https://www.facebook.com/gdgizmir/"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Yaşar Üniversitesi, Selçuk Yaşar Kampüsü",
+    "address": "Kazımdirik Mahallesi, Selçuk Yaşar Kampüsü, Üniversite Caddesi Ağaçlı Yol No: 37-39, 35100 Bornova/İzmir",
+    "link": "https://yasar.edu.tr/",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 38.4547698,
+      "longitude": 27.2022886,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 38.454997,
+      "longitude": 27.2147555
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -103,27 +90,27 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://goo.gl/photos/P5MYyaBVr2BhTFiB8",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/2016_1.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/2016_2.jpg",
+        "/images/backgrounds/2016_3.jpg"
       ]
     }
   },
   "pages": {
     "home": {
-      "title": "Home",
+      "title": "Ana sayfa",
       "headerSettings": {
         "backgroundColor": "#FF9800",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "title": "GDG DevFest İzmir 2016",
+          "youtubeId": "q2fBXJP734c",
+          "text": "2016'da neler olmuştu?"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -138,7 +125,7 @@
       }
     },
     "speakers": {
-      "title": "Speakers",
+      "title": "Konuşmacılar",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
@@ -146,7 +133,7 @@
       }
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "Program",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -154,7 +141,7 @@
       }
     },
     "team": {
-      "title": "Team",
+      "title": "Ekip",
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",

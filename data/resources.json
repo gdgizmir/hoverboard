@@ -1,76 +1,76 @@
 {
-  "title": "GDG DevFest Season 2016",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
-  "motto": "Be a GDG. Be a Hero!",
-  "playIcon": "See how it was in 2015",
-  "c4p": "Become a speaker",
-  "buyTicket": "Buy ticket",
-  "backToTop": "Back to top",
-  "subscribe": "Subscribe",
-  "yourEmail": "Your email",
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "contactUs": "Contact us",
-  "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-  "close": "Close",
-  "soldOutTickets": "Sold Out",
-  "socialTitle": "Social",
-  "socialMotto": "Add to circles, like, follow or connect with us on",
-  "beforeHashtag": "What's up",
-  "clickToViewPhotos": "Click here to view more photos",
-  "partners": "Partners",
-  "becomePartner": "Become a partner",
-  "featuredVideosTitle": "Featured #DFUA '15 Sessions",
-  "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
-  "featuredPeopleViewAll": "View all speakers",
-  "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
-  "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
-  "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
-  "readMore": "Read more",
-  "copyLink": "Copy link",
-  "filteredBy": "filtered by",
-  "clearAll": "Clear all",
-  "filter": "Filter",
-  "latestNews": "Latest news",
-  "continueReading": "Continue reading",
-  "viewPresentation": "View presentation",
-  "viewVideo": "View video",
-  "skills": "Skills",
-  "share": "Share",
-  "shareWith": "Share with",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "mySchedule": "My Schedule",
-  "browseMore": "Browse more events",
-  "youShouldSignInSessions": "Sign in to save sessions",
-  "youShouldSignInRating": "Sign in to rate sessions",
-  "offlineMessage": "You are offline",
-  "removedFromSchedule": "Removed from My Schedule",
-  "addedToSchedule": "Added to My Schedule",
-  "rateSession": "Rate session",
+  "title": "GDG DevFest İzmir 2017",
+  "description": "Birbirinden renkli konuşmacılar ile tüm gün boyunca teknoloji ve inovasyon konuşmaya, yenilikleri öğrenmeye ve sizin gibi teknoloji meraklılarıyla tanışmaya davetlisiniz.",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, kotlin, izmir",
+  "dates": "3 Aralık 2017",
+  "locationAddressShort": "İzmir, Türkiye",
+  "motto": "Yaşar Üniversitesi, Selçuk Yaşar Kampüsü, Bornova",
+  "playIcon": "2016'da neler olmuştu?",
+  "c4p": "Konuşmacı ol",
+  "buyTicket": "Bilet al",
+  "backToTop": "Yukarı",
+  "subscribe": "Abone ol",
+  "yourEmail": "Email",
+  "subscribeNote": "Spam yok, sadece son güncellemeler",
+  "contactUs": "İletişim",
+  "ticketsTitle": "Biletler",
+  "ticketsDetails": "Etkinlik ücretsizdir.",
+  "close": "Kapat",
+  "soldOutTickets": "Tüm biletler tükendi.",
+  "socialTitle": "Sosyal medya",
+  "socialMotto": "Beğen, takip et",
+  "beforeHashtag": "Neler oluyor?",
+  "clickToViewPhotos": "Daha fazla fotoğraf görmek için tıklayın.",
+  "partners": "Sponsorlar",
+  "becomePartner": "Sponsor olun",
+  "featuredVideosTitle": "Öne çıkanlar #devfestizmir '16",
+  "featuredVideosViewAll": "Tüm vidyolar",
+  "featuredPeopleTitle": "Rockstar Konuşmacılar",
+  "featuredPeopleViewAll": "Tüm konuşmacıları gör",
+  "action": "2016'da neler olmuştu?",
+  "locationTitle": "Yaşar Üniversitesi, Selçuk Yaşar Kampüsü",
+  "locationDescription" : "Bölge metro durağına yürüme mesafesinde",
+  "locationAddress": "Kazımdirik Mahallesi, Selçuk Yaşar Kampüsü, Üniversite Caddesi Ağaçlı Yol No: 37-39, 35100 Bornova/İzmir",
+  "organizerTitle": "Organizatör",
+  "aboutOrganizers": "<a href='https://www.meetup.com/GDG-Izmir/'>GDG İzmir</a> ekibi her sene büyük bir keyif ile DevFest düzenliyor. Siz de bunun bir parçası olmak isterseniz <a href='http://gdgizmir.org/slack'>GDG İzmir Meetup</a>'a bekleriz.",
+  "openTeamPage": "Ekip sayfasına git",
+  "whatIsGdg": "GDG nedir?",
+  "aboutGdg": "Google Developers Group (GDG) büyük bir tutkuyla Google teknolojileri hakkındaki deneyimlerini paylaşan gönüllü geliştiricilerden oluşan bir topluluktur.",
+  "readMore": "Daha fazla",
+  "copyLink": "Linki kopyala",
+  "filteredBy": "filtre:",
+  "clearAll": "Temizle",
+  "filter": "Filtreler",
+  "latestNews": "Son haberler",
+  "continueReading": "Devamını oku",
+  "viewPresentation": "Sunumu gör",
+  "viewVideo": "Videoyu gör",
+  "skills": "Beceriler",
+  "share": "Paylaş",
+  "shareWith": "Şununla paylaş",
+  "signIn": "Giriş yap",
+  "signOut": "Çıkış yap",
+  "mySchedule": "Ajandam",
+  "browseMore": "Daha fazla etkinlik",
+  "youShouldSignInSessions": "Oturumları kaydetmek için giriş yapın",
+  "youShouldSignInRating": "Oturumlara puan vermek için giriş yapın",
+  "offlineMessage": "Çevrimdışısın",
+  "removedFromSchedule": "Ajandamdan sil",
+  "addedToSchedule": "Ajandama ekle",
+  "rateSession": "Oturumlara puan ver",
   "footerBlocks": [
     {
-      "title": "For visitors",
+      "title": "Konuklar için",
       "links": [
         {
-          "text": "Team",
-          "url": "/team/",
-          "newTab": false
+          "text": "GDG İzmir Meetup",
+          "url": "https://www.meetup.com/GDG-Izmir/",
+          "newTab": true
         },
         {
-          "text": "Code of Conduct",
-          "url": "/cod/",
-          "newTab": false
+          "text": "GDG İzmir Slack",
+          "url": "http://gdgizmir.org/slack",
+          "newTab": true
         },
         {
           "text": "Google Developers",
@@ -78,33 +78,18 @@
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "text": "GDG DevFest İzmir 2016",
+          "url": "https://devfestizmir.firebaseapp.com/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "For Partners",
+      "title": "Sponsorluk için",
       "links": [
         {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "text": "Sponsor olun",
+          "url": "mailto:info@gdgizmir.org?subject=GDG DevFest İzmir Sponsorluk",
           "newTab": true
         }
       ]
@@ -113,33 +98,29 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "info@gdgizmir.org",
+        "url": "mailto:info@gdgizmir.org"
       }
     ]
   },
-  "teamPageTitle": "Team",
+  "teamPageTitle": "Ekip",
   "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
   "statistics": [
     {
-      "counter": 600,
-      "caption": "Attendees"
+      "counter": 800,
+      "caption": "Katılımcı"
     },
     {
-      "counter": 2,
-      "caption": "Days"
+      "counter": 1,
+      "caption": "Gün"
     },
     {
       "counter": 30,
-      "caption": "Sessions"
+      "caption": "Oturum"
     },
     {
       "counter": 3,
-      "caption": "Tracks"
+      "caption": "Paralel oturum"
     }
-  ],
-  "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
-  }
+  ]
 }
