@@ -17,7 +17,7 @@
   },
   "firebase": {
     "name": "devfestizmir17",
-    "domain": "devfestizmir17.firebaseapp.com",
+    "domain": "gdgizmir.org",
     "database": "https://devfestizmir17.firebaseio.com",
     "api": "AIzaSyCt52ZiOozc7g4CwTD0QRTHojQ0HLI5aUY",
     "userSessionsPath": "/userSessions",
@@ -25,8 +25,8 @@
     "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "http://gdgizmir.us11.list-manage.com/subscribe?u=9a10d1169f635f31857325d26&id=49e6f1a9ff",
+    "name": "9a10d1169f635f31857325d26"
   },
   "dateFormat": {
     "locale": "tr-TR",
