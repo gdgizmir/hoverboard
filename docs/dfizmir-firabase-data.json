@@ -1,0 +1,65 @@
+{
+  "partners": [],
+  "schedule": [],
+  "sessions": {
+  },
+  "speakers": [
+    {
+      "bio": "Monitise MEA'da Android Developer olarak çalışıyorum. Kotlin ile ilgili gelişmeleri yakından takip ediyorum. Aynı zamanda GDG İzmir organizatörlerinden biriyim.",
+      "company": "Monitise MEA",
+      "companyLogo": "/images/logos/monitise.png",
+      "country": "Izmir, Turkey",
+      "featured": true,
+      "id": 1,
+      "name": "Semih Bozdemir",
+      "photoUrl": "/images/people/semih_bozdemir.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "website",
+          "link": "http://sembozdemir.com",
+          "name": "Website"
+        },
+        {
+          "icon": "gplus",
+          "link": "https://plus.google.com/108953359302210754768/",
+          "name": "Google+"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sembozdemir",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sembozdemir",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/sembozdemir",
+          "name": "GitHub"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Kotlin"
+      ],
+      "title": "Android Developer"
+    }
+  ],
+  "tickets": {
+    "elements": [
+      {
+        "currency": "₺",
+        "ends": "",
+        "info": "",
+        "name": "Free",
+        "price": 0,
+        "soldOut": false,
+        "starts": ""
+      }
+    ],
+    "url": "https://devfestizmir.eventbrite.com?aff=website"
+  }
+}
