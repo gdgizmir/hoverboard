@@ -190,6 +190,13 @@
             <paper-button class="action-button">{$ buyTicket $}</paper-button>
           </a>
         </div>
+
+        <!-- todo: Call for papers section, remove later -->
+        <div class="action-button-wrapper" hidden$="[[app.isPhoneSize]]" layout horizontal center-center>
+          <a href="http://bit.ly/df-izmir-cfp" target="_blank" rel="noopener noreferrer" on-tap="_trackC4p">
+            <paper-button class="action-button">{$ c4p $}</paper-button>
+          </a>
+        </div>
       </div>
     </app-toolbar>
 
