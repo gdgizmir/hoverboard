@@ -12,8 +12,8 @@
   },
   "webapp": {
     "shortName": "DevFest Izmir",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
+    "themeColor": "#388E3C",
+    "backgroundColor": "#388E3C"
   },
   "firebase": {
     "name": "devfestizmir17",
@@ -103,7 +103,7 @@
     "home": {
       "title": "Ana sayfa",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#388E3C",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
