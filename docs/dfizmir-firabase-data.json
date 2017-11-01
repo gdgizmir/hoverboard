@@ -46,6 +46,29 @@
         "Kotlin"
       ],
       "title": "Android Developer"
+    }, 
+    {
+      "bio": "",
+      "company": "Linovi",
+      "companyLogo": "/images/logos/linovi.png",
+      "country": "Izmir, Turkey",
+      "featured": true,
+      "id": 2,
+      "name": "Okan Alper",
+      "photoUrl": "/images/people/okan_alper.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/okanalper/",
+          "name": "LinkedIn"
+        }
+      ],
+      "tags": [
+        "Scalability",
+        "Scala"
+      ],
+      "title": "Founder"
     }
   ],
   "tickets": {
