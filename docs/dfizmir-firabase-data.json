@@ -69,6 +69,117 @@
         "Scala"
       ],
       "title": "Founder"
+    }, 
+    {
+      "bio": "",
+      "company": "Google",
+      "companyLogo": "/images/logos/google.svg",
+      "country": "London, UK",
+      "featured": true,
+      "id": 3,
+      "name": "Erdem Güven",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Ferdem_guven.jpg?alt=media&token=ecef1405-b34e-4bcd-be42-367ef4e5b096",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/erdem-guven-9977604/",
+          "name": "LinkedIn"
+        }
+      ],
+      "tags": [
+        "Android",
+        "ExoPlayer"
+      ],
+      "title": "Software Engineer"
+    }, 
+    {
+      "bio": "Software Development Team Leader at @MonitiseMEA. Hacker, #Linux & #Docker Enthusiast, Believer of Open Source Software. Lives in İzmir, Turkey.",
+      "company": "Monitise MEA",
+      "companyLogo": "/images/logos/monitise.png",
+      "country": "Izmir, Turkey",
+      "featured": true,
+      "id": 4,
+      "name": "Alper Kanat",
+      "photoUrl": "https://en.gravatar.com/userimage/521024/d8aa945423686968593c7cfc45e17122.jpg?size=500",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "http://tr.linkedin.com/in/tunix",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/tunix/",
+          "name": "GitHub"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/tunix",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "Docker",
+        "Microservices"
+      ],
+      "title": "Software Development Team Leader"
+    }, 
+    {
+      "bio": "Software developer at kodcu.com, A Docker guy helping the Docker community actively by organising events at Docker Izmir.",
+      "company": "Kodcu",
+      "companyLogo": "/images/logos/kodcu.png",
+      "country": "Izmir, Turkey",
+      "featured": false,
+      "id": 5,
+      "name": "Hakan Ozler",
+      "photoUrl": "/images/people/hakan_ozler.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://tr.linkedin.com/in/ozlerhakan",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/ozlerhakan",
+          "name": "GitHub"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ozlerhakan",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "Java",
+        "Docker"
+      ],
+      "title": "Software Developer"
+    }, 
+    {
+      "bio": "A gold collar worker, with “can do” attitude, who is; Passionate about: Social Entrepreneurship, Renewable Energy; Wondering about: Industrial Design, Data Science, M2M, Mobile World, Behavioral Psychology",
+      "company": "Insider",
+      "companyLogo": "https://media-exp2.licdn.com/mpr/mpr/shrink_100_100/p/3/005/07c/24a/30a90af.png",
+      "country": "Istanbul, Turkey",
+      "featured": true,
+      "id": 6,
+      "name": "Muharrem Derinkök",
+      "photoUrl": "https://media-exp2.licdn.com/media/AAEAAQAAAAAAAA0hAAAAJGI4MzIyZTg1LTI0ZGQtNDE2ZS05YTYwLWQyYjUxODkxNGJjMQ.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/muharremderinkok/",
+          "name": "LinkedIn"
+        }
+      ],
+      "tags": [
+        "Engineering"
+      ],
+      "title": "VP, Product Management & Co-founder"
     }
   ],
   "tickets": {

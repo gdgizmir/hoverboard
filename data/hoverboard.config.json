@@ -34,7 +34,7 @@
   },
   "hashtag": "devfestizmir",
   "disqusShortName": "hoverboard-gdg-x",
-  "tweetsSource": "/data/tweets.json",
+  "tweetsSource": "",
   "partnershipProposition": "mailto:info@gdgdizmir.org",
   "videosSessionsUrl": "",
   "enableSessionsRating": true,
@@ -133,7 +133,7 @@
       }
     },
     "schedule": {
-      "title": "Program",
+      "title": "Program [TBA]",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
