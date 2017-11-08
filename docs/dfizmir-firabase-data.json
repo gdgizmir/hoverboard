@@ -1,68 +1,29 @@
 {
   "partners": [
     {
-      "logos" : [ {
-        "logoUrl" : "../images/logos/google.svg",
-        "name" : "Google",
-        "url" : "https://developers.google.com/"
-      } ],
-      "title" : "Ana sponsor"
-    }, {
-      "logos" : [ {
-        "logoUrl" : "../images/logos/linovi.png",
-        "name" : "Linovi",
-        "url" : "http://www.linovi.com/"
-      } ],
-      "title" : "Altın Sponsor"
+      "logos": [
+        {
+          "logoUrl": "../images/logos/google.svg",
+          "name": "Google",
+          "url": "https://developers.google.com/"
+        }
+      ],
+      "title": "Ana sponsor"
+    },
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/logos/linovi.png",
+          "name": "Linovi",
+          "url": "http://www.linovi.com/"
+        }
+      ],
+      "title": "Altın Sponsor"
     }
   ],
   "schedule": [],
-  "sessions": {
-  },
+  "sessions": {},
   "speakers": [
-    {
-      "bio": "Monitise MEA'da Android Developer olarak çalışıyorum. Kotlin ile ilgili gelişmeleri yakından takip ediyorum. Aynı zamanda GDG İzmir organizatörlerinden biriyim.",
-      "company": "Monitise MEA",
-      "companyLogo": "/images/logos/monitise.png",
-      "country": "Izmir, Turkey",
-      "featured": true,
-      "id": 1,
-      "name": "Semih Bozdemir",
-      "photoUrl": "/images/people/semih_bozdemir.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "website",
-          "link": "http://sembozdemir.com",
-          "name": "Website"
-        },
-        {
-          "icon": "gplus",
-          "link": "https://plus.google.com/108953359302210754768/",
-          "name": "Google+"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/sembozdemir",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/sembozdemir",
-          "name": "Twitter"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/sembozdemir",
-          "name": "GitHub"
-        }
-      ],
-      "tags": [
-        "Android",
-        "Kotlin"
-      ],
-      "title": "Android Developer"
-    }, 
     {
       "bio": "",
       "company": "Linovi",
@@ -85,7 +46,29 @@
         "Scala"
       ],
       "title": "Founder"
-    }, 
+    },
+    {
+      "bio": "A gold collar worker, with “can do” attitude, who is; Passionate about: Social Entrepreneurship, Renewable Energy; Wondering about: Industrial Design, Data Science, M2M, Mobile World, Behavioral Psychology",
+      "company": "Insider",
+      "companyLogo": "https://media-exp2.licdn.com/mpr/mpr/shrink_100_100/p/3/005/07c/24a/30a90af.png",
+      "country": "Istanbul, Turkey",
+      "featured": true,
+      "id": 6,
+      "name": "Muharrem Derinkök",
+      "photoUrl": "https://media-exp2.licdn.com/media/AAEAAQAAAAAAAA0hAAAAJGI4MzIyZTg1LTI0ZGQtNDE2ZS05YTYwLWQyYjUxODkxNGJjMQ.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/muharremderinkok/",
+          "name": "LinkedIn"
+        }
+      ],
+      "tags": [
+        "Entrepreneurship"
+      ],
+      "title": "VP, Product Management & Co-founder"
+    },
     {
       "bio": "",
       "company": "Google",
@@ -108,122 +91,6 @@
         "ExoPlayer"
       ],
       "title": "Software Engineer"
-    }, 
-    {
-      "bio": "Software Development Team Leader at @MonitiseMEA. Hacker, #Linux & #Docker Enthusiast, Believer of Open Source Software. Lives in İzmir, Turkey.",
-      "company": "Monitise MEA",
-      "companyLogo": "/images/logos/monitise.png",
-      "country": "Izmir, Turkey",
-      "featured": true,
-      "id": 4,
-      "name": "Alper Kanat",
-      "photoUrl": "https://en.gravatar.com/userimage/521024/d8aa945423686968593c7cfc45e17122.jpg?size=500",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "http://tr.linkedin.com/in/tunix",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/tunix/",
-          "name": "GitHub"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/tunix",
-          "name": "Twitter"
-        }
-      ],
-      "tags": [
-        "Docker",
-        "Microservices"
-      ],
-      "title": "Software Development Team Leader"
-    }, 
-    {
-      "bio": "Software developer at kodcu.com, A Docker guy helping the Docker community actively by organising events at Docker Izmir.",
-      "company": "Kodcu",
-      "companyLogo": "/images/logos/kodcu.png",
-      "country": "Izmir, Turkey",
-      "featured": false,
-      "id": 5,
-      "name": "Hakan Ozler",
-      "photoUrl": "/images/people/hakan_ozler.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://tr.linkedin.com/in/ozlerhakan",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/ozlerhakan",
-          "name": "GitHub"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/ozlerhakan",
-          "name": "Twitter"
-        }
-      ],
-      "tags": [
-        "Java",
-        "Docker"
-      ],
-      "title": "Software Developer"
-    }, 
-    {
-      "bio": "A gold collar worker, with “can do” attitude, who is; Passionate about: Social Entrepreneurship, Renewable Energy; Wondering about: Industrial Design, Data Science, M2M, Mobile World, Behavioral Psychology",
-      "company": "Insider",
-      "companyLogo": "https://media-exp2.licdn.com/mpr/mpr/shrink_100_100/p/3/005/07c/24a/30a90af.png",
-      "country": "Istanbul, Turkey",
-      "featured": true,
-      "id": 6,
-      "name": "Muharrem Derinkök",
-      "photoUrl": "https://media-exp2.licdn.com/media/AAEAAQAAAAAAAA0hAAAAJGI4MzIyZTg1LTI0ZGQtNDE2ZS05YTYwLWQyYjUxODkxNGJjMQ.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/muharremderinkok/",
-          "name": "LinkedIn"
-        }
-      ],
-      "tags": [
-        "Entrepreneurship"
-      ],
-      "title": "VP, Product Management & Co-founder"
-    }, 
-    {
-      "bio": "I am a software developer currently working on iOS Apps and with Windows, Xamarin and Unity experience.",
-      "company": "Monitise MEA",
-      "companyLogo": "/images/logos/monitise.png",
-      "country": "Istanbul, Turkey",
-      "featured": true,
-      "id": 7,
-      "name": "İlke Uygun",
-      "photoUrl": "https://cdn-images-1.medium.com/max/1200/0*phnCXk91EiUwoLG2.",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/ilke-uygun-9a66265b/",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/ilkeuygun",
-          "name": "Twitter"
-        }
-      ],
-      "tags": [
-        "VR",
-        "AR"
-      ],
-      "title": "Senior Software Developer"
     },
     {
       "bio": "Experienced Academician, Postdoctoral Researcher with a demonstrated history of working in the higher education industry. Skilled in Computer Science, Lecturing, Databases, Data Science, and Algorithms. Strong research professional with a Doctor of Philosophy (Ph.D.) focused in Computer Science. Enthusiastic explorer of cultures, worked in 6 countries.",
@@ -274,6 +141,231 @@
         "Entrepreneurship"
       ],
       "title": "CEO"
+    },
+    {
+      "bio": "Monitise MEA'da Android Developer olarak çalışıyorum. Kotlin ile ilgili gelişmeleri yakından takip ediyorum. Aynı zamanda GDG İzmir organizatörlerinden biriyim.",
+      "company": "Monitise MEA",
+      "companyLogo": "/images/logos/monitise.png",
+      "country": "Izmir, Turkey",
+      "featured": true,
+      "id": 1,
+      "name": "Semih Bozdemir",
+      "photoUrl": "/images/people/semih_bozdemir.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "website",
+          "link": "http://sembozdemir.com",
+          "name": "Website"
+        },
+        {
+          "icon": "gplus",
+          "link": "https://plus.google.com/108953359302210754768/",
+          "name": "Google+"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sembozdemir",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sembozdemir",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/sembozdemir",
+          "name": "GitHub"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Kotlin"
+      ],
+      "title": "Android Developer"
+    },
+    {
+      "bio": "Caner is a UX designer who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android. Previously he worked in a publication company on digital magazines. Today, he works at InnovationBox, a design agency in Istanbul making and creating apps that users love. Caner has been a user group leader at GDG Istanbul since 2013, organising, participating, and speaking at events. He shares his experience in User Experience via conferences or workshops at Droidcon, DevFest, and other conferences.",
+      "company": "t-mob",
+      "companyLogo": "http://thinksmobility.com/wp-content/uploads/2015/08/TmobLogo.png",
+      "country": "Istanbul, Turkey",
+      "featured": true,
+      "id": 12,
+      "name": "Resul Caner Yıldırım",
+      "photoUrl": "https://lh3.googleusercontent.com/4ocfSRluqkExTNEgoydYD9hqKkDzDFTVOv6t8ZdBeBeZqbD6VMx8GAF5yLSTPFpl1N07R5hXRggthTN7BM1bLsePfLiRcuUwQQpLFh7XmZtEitRxNRLAb421gXtPvyi_GwwudZaJJYVsiwxoywT0yx0rrT-hHKVGTH9JSuyr_X7s7YF3GWWtFDKGmpFVmvl61sFVeHmbrM4_YokM42Bk8o-MtHAoLntXmoSxGnHwCqmq8ZXv-Aep8ckWxP_qqaOGG0AtpJH1NpsdqvUYsRdA9uXzabXvMS73ttQd67D1Ya6OIql_-0P3tBktcXFcEaO5_MDVxg8TauzgavnsVw-Y47VwhvWzzCDn5bPoRqlboTpmW-_JJuKvY6uErbWa9qggazTnbCDBfxQuOPn7TI9x7IxE8gPzBHSlEmHUoKSW77iytJiJPs7V_EEfEOoRCGRhEp4zjbaUPS4fOtjKHXCCOg5glj-P3-hdbuhwHizZOqeGhahmYjpatDY_t3INGMJ0bL52EKWF3zWXtE0svbc2gQYUeQQNISNtlGRemrsgITG9Bdd5niOmiWlWAO_ddRtOMQyg7c6BgxZFGfBwm5RFIYf6IvvuY611nbQz-SPTIQX5ayiqRoaPBlPhtRpjhsmePcU4zeCgJmiXA_vhUXhPSp5tlFtHrc3YJzQv=w1251-h1250-no",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "website",
+          "link": "http://dribbble.com/protechman",
+          "name": "Website"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/protechman",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/protechman",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "UX",
+        "UI"
+      ],
+      "title": "Experience Designer"
+    },
+    {
+      "bio": "Software Development Team Leader at @MonitiseMEA. Hacker, #Linux & #Docker Enthusiast, Believer of Open Source Software. Lives in İzmir, Turkey.",
+      "company": "Monitise MEA",
+      "companyLogo": "/images/logos/monitise.png",
+      "country": "Izmir, Turkey",
+      "featured": true,
+      "id": 4,
+      "name": "Alper Kanat",
+      "photoUrl": "https://en.gravatar.com/userimage/521024/d8aa945423686968593c7cfc45e17122.jpg?size=500",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "http://tr.linkedin.com/in/tunix",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/tunix/",
+          "name": "GitHub"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/tunix",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "Docker",
+        "Microservices"
+      ],
+      "title": "Software Development Team Leader"
+    },
+    {
+      "bio": "Software developer at kodcu.com, A Docker guy helping the Docker community actively by organising events at Docker Izmir.",
+      "company": "Kodcu",
+      "companyLogo": "/images/logos/kodcu.png",
+      "country": "Izmir, Turkey",
+      "featured": false,
+      "id": 5,
+      "name": "Hakan Ozler",
+      "photoUrl": "/images/people/hakan_ozler.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://tr.linkedin.com/in/ozlerhakan",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/ozlerhakan",
+          "name": "GitHub"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ozlerhakan",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "Java",
+        "Docker"
+      ],
+      "title": "Software Developer"
+    },
+    {
+      "bio": "I am a software developer currently working on iOS Apps and with Windows, Xamarin and Unity experience.",
+      "company": "Monitise MEA",
+      "companyLogo": "/images/logos/monitise.png",
+      "country": "Istanbul, Turkey",
+      "featured": true,
+      "id": 7,
+      "name": "İlke Uygun",
+      "photoUrl": "https://cdn-images-1.medium.com/max/1200/0*phnCXk91EiUwoLG2.",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ilke-uygun-9a66265b/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ilkeuygun",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "VR",
+        "AR"
+      ],
+      "title": "Senior Software Developer"
+    },
+    {
+      "bio": "Mert is an Android Engineer, currently focused on developing Android Applications. He is very visible in public conferences and organizer of Android Istanbul, also active member of GDG Istanbul. He is also blogging about android technologies and trends weekly, also love to share his experiences as open source library at github.com. In his quiet time, he loves to draw and travel.",
+      "company": "sahibinden.com",
+      "companyLogo": "http://www.freelogovectors.net/wp-content/uploads/2013/06/sahibinden.com-logo.jpg",
+      "country": "Istanbul, Turkey",
+      "featured": true,
+      "id": 10,
+      "name": "Mert Şimşek",
+      "photoUrl": "https://avatars2.githubusercontent.com/u/11799296?s=460&v=4",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/iammert",
+          "name": "GitHub"
+        }
+      ],
+      "tags": [
+        "Android"
+      ],
+      "title": "Android Engineer"
+    },
+    {
+      "bio": "I do more than 3 years of research and development on Internet of Things",
+      "company": "",
+      "companyLogo": "",
+      "country": "Izmir, Turkey",
+      "featured": true,
+      "id": 11,
+      "name": "Yakut Özcan",
+      "photoUrl": "https://lh4.googleusercontent.com/IkyEf3-5CZ_WLZV5EHIdwHznuG2ISv7jcizn5Cn-eF7ZT4gyvQb_sZ9WE2Op-yW8HeCDHZ6YL0poMfw=w3360-h1906-rw",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/yakutozcan",
+          "name": "GitHub"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/yakutozcan",
+          "name": "Twitter"
+        },
+        {
+          "icon": "website",
+          "link": "https://yakutozcan.blogspot.com",
+          "name": "Website"
+        }
+      ],
+      "tags": [
+        "IoT",
+        "Android"
+      ],
+      "title": "IoT Developer"
     }
   ],
   "tickets": {
