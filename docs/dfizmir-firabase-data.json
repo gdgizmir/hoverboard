@@ -1,5 +1,21 @@
 {
-  "partners": [],
+  "partners": [
+    {
+      "logos" : [ {
+        "logoUrl" : "../images/logos/google.svg",
+        "name" : "Google",
+        "url" : "https://developers.google.com/"
+      } ],
+      "title" : "Ana sponsor"
+    }, {
+      "logos" : [ {
+        "logoUrl" : "../images/logos/linovi.png",
+        "name" : "Linovi",
+        "url" : "http://www.linovi.com/"
+      } ],
+      "title" : "Altın Sponsor"
+    }
+  ],
   "schedule": [],
   "sessions": {
   },
@@ -177,9 +193,87 @@
         }
       ],
       "tags": [
-        "Engineering"
+        "Entrepreneurship"
       ],
       "title": "VP, Product Management & Co-founder"
+    }, 
+    {
+      "bio": "I am a software developer currently working on iOS Apps and with Windows, Xamarin and Unity experience.",
+      "company": "Monitise MEA",
+      "companyLogo": "/images/logos/monitise.png",
+      "country": "Istanbul, Turkey",
+      "featured": true,
+      "id": 7,
+      "name": "İlke Uygun",
+      "photoUrl": "https://cdn-images-1.medium.com/max/1200/0*phnCXk91EiUwoLG2.",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ilke-uygun-9a66265b/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ilkeuygun",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "VR",
+        "AR"
+      ],
+      "title": "Senior Software Developer"
+    },
+    {
+      "bio": "Experienced Academician, Postdoctoral Researcher with a demonstrated history of working in the higher education industry. Skilled in Computer Science, Lecturing, Databases, Data Science, and Algorithms. Strong research professional with a Doctor of Philosophy (Ph.D.) focused in Computer Science. Enthusiastic explorer of cultures, worked in 6 countries.",
+      "company": "Bilgisayar Kavramları",
+      "companyLogo": "",
+      "country": "Istanbul, Turkey",
+      "featured": true,
+      "id": 8,
+      "name": "Dr. Sadi Evren Şeker",
+      "photoUrl": "http://sadievrenseker.com/wp/wp-content/uploads/2013/11/Sadi_Seker_17.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sadiseker/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sadievrenseker",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "Data Science",
+        "MIS"
+      ],
+      "title": "Executive Director"
+    },
+    {
+      "bio": "",
+      "company": "GelGit",
+      "companyLogo": "http://www.gelgit.com.tr/wp-content/uploads/2017/06/logo-yazili.png",
+      "country": "Istanbul, Turkey",
+      "featured": true,
+      "id": 9,
+      "name": "Austin Kim",
+      "photoUrl": "https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAsTAAAAJDc1YzI3MGE2LTU5YjYtNGE4YS1iN2I5LTBlNDBmYmFkMjA0ZQ.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/austin-kim-6b5aa23/",
+          "name": "LinkedIn"
+        }
+      ],
+      "tags": [
+        "Entrepreneurship"
+      ],
+      "title": "CEO"
     }
   ],
   "tickets": {
