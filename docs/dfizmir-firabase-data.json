@@ -46,8 +46,79 @@
       "title": "Destekleyenler"
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "date" : "2017-12-03",
+      "dateReadable" : "3 Aralık",
+      "timeslots" : [ {
+        "endTime" : "10:30",
+        "sessions" : [ [ 98 ] ],
+        "startTime" : "09:30"
+      }, {
+        "endTime" : "11:20",
+        "sessions" : [ [ 100 ], [ 108 ], [ 106 ], [ 110 ], [ 100 ] ],
+        "startTime" : "10:30"
+      }, {
+        "endTime" : "12:20",
+        "sessions" : [ [ 101 ], [ 104 ], [ 102 ], [ 110 ], [ 100 ] ],
+        "startTime" : "11:30"
+      }, {
+        "endTime" : "13:00",
+        "sessions" : [ [ 99 ] ],
+        "startTime" : "12:20"
+      }, {
+        "endTime" : "13:50",
+        "sessions" : [ [ 100 ], [ 111 ], [ 114 ], [ 109 ], [ 100 ] ],
+        "startTime" : "13:00"
+      }, {
+        "endTime" : "14:50",
+        "sessions" : [ [ 115 ], [ 100 ], [ 114 ], [ 107 ], [ 100 ] ],
+        "startTime" : "14:00"
+      }, {
+        "endTime" : "15:50",
+        "sessions" : [ [ 100 ], [ 112 ], [ 103 ], [ 100 ], [ 100 ] ],
+        "startTime" : "15:00"
+      }, {
+        "endTime" : "16:50",
+        "sessions" : [ [ 100 ], [ 100 ], [ 105 ], [ 113 ], [ 100 ] ],
+        "startTime" : "16:00"
+      } ],
+      "tracks" : [ {
+        "title" : "Gevrek"
+      }, {
+        "title" : "Çiğdem"
+      }, {
+        "title" : "Boyoz"
+      }, {
+        "title" : "Kumru"
+      }, {
+        "title" : "Darı"
+      } ]
+    }
+  ],
   "sessions": {
+    "98" : {
+      "description" : "",
+      "id" : 98,
+      "image" : "/images/backgrounds/registration.jpg",
+      "title" : "Kayıt"
+    },
+    "99" : {
+      "description" : "",
+      "id" : 99,
+      "image" : "/images/backgrounds/lunch.jpg",
+      "title" : "Öğle Arası"
+    },
+    "100" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 100,
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [ ],
+      "tags" : [ ],
+      "title" : "TBA"
+    },
     "101" : {
       "complexity" : "",
       "description" : "Gunumuzde Cloud sistemleri cok yaygin olarak kullanilmaktadir. Ancak, yuksek yuk altinda kullanmaya calistiginizda cok bariz avantajlarinin yaninda ciddi sorunlar da yasanabilmektedir. Bu sunumda Cloud sistemlerini kullanmanin iyi ve kotu yanlari tartisilacak ve cozumlere dogru bir yaklasimla gidilmesi gosterilecektir.",
