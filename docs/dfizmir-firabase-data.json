@@ -196,7 +196,7 @@
       "language" : "Turkish",
       "presentation" : "",
       "speakers" : [ 11 ],
-      "tags" : [ "IoT", "Android" ],
+      "tags" : [ "Android", "IoT" ],
       "title" : "Android Things"
     },
     "109" : {
@@ -246,7 +246,7 @@
       "language" : "Turkish",
       "presentation" : "",
       "speakers" : [ 14 ],
-      "tags" : [ "NoSQL" ],
+      "tags" : [ "Nosql" ],
       "title" : "Redesigning RDBMS Data Structure For Nosql"
     },
     "114" : {
@@ -256,7 +256,7 @@
       "language" : "Turkish",
       "presentation" : "",
       "speakers" : [ 17, 18 ],
-      "tags" : [ "React", "Web" ],
+      "tags" : [ "Web", "React" ],
       "title" : "React and React-Native Workshop"
     },
     "115" : {
