@@ -19,10 +19,186 @@
         }
       ],
       "title": "Altın Sponsor"
+    },
+    {
+      "logos": [
+        {
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fhdteknohaber.png?alt=media&token=0431f065-92e2-40dd-99c2-cebac2064317",
+          "name": "Hdteknohaber",
+          "url": "http://www.hdteknohaber.com/"
+        },
+        {
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fwebmasto.png?alt=media&token=cc8f65a0-1553-4a39-b182-c3b591b0a7cb",
+          "name": "Webmasto",
+          "url": "http://webmasto.com/"
+        }
+      ],
+      "title": "Medya Sponsorları"
+    },
+    {
+      "logos": [
+        {
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fyasar_ieee.jpeg?alt=media&token=1aac0c00-b505-4c8d-a9f7-961c2241b028",
+          "name": "Yasar Universitesi IEEE",
+          "url": "https://sks.yasar.edu.tr/ogrenci-topluluklari/ieee-muhendislik-toplulugu/"
+        }
+      ],
+      "title": "Destekleyenler"
     }
   ],
   "schedule": [],
-  "sessions": {},
+  "sessions": {
+    "101" : {
+      "complexity" : "",
+      "description" : "Gunumuzde Cloud sistemleri cok yaygin olarak kullanilmaktadir. Ancak, yuksek yuk altinda kullanmaya calistiginizda cok bariz avantajlarinin yaninda ciddi sorunlar da yasanabilmektedir. Bu sunumda Cloud sistemlerini kullanmanin iyi ve kotu yanlari tartisilacak ve cozumlere dogru bir yaklasimla gidilmesi gosterilecektir.",
+      "id" : 101,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 2 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Cloud : Pros / Cons"
+    },
+    "102" : {
+      "complexity" : "",
+      "description" : "Yapay Zeka alanında, son zamanlarda en heyecan verici gelişmelerden biri olan deep learning konusuna hızlı bir bakış. Deep learning nedir? Neler vadetmektedir? Kullandığımız hangi uygulamalar bu teknolojiden faydalanmaktadır? Deep learning ile çalışabilmek için akademik bir kariyer şart mı?",
+      "id" : 102,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 13 ],
+      "tags" : [ "AI" ],
+      "title" : "A Stunning Leap in AI: Deep Learning"
+    },
+    "103" : {
+      "complexity" : "",
+      "description" : "I will talk about successful AR&VR apps and ways of development for different platforms available.",
+      "id" : 103,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 7 ],
+      "tags" : [ "VR", "AR" ],
+      "title" : "AR&VR Real World Applications"
+    },
+    "104" : {
+      "complexity" : "",
+      "description" : "Since the beginning, a UX designers’ job is assisting the user to perform the needed task in the possible shortest time by minimalizing the information and the interface they interacted.  Nowadays, things are a bit different than the past. Now, users don't even have to look for the content to get the answer. The only thing they need to do is talking with a chatbot or a virtual personal assistant which response in seconds! So, for a UX designer, things are tougher than ever. If you look the evolution of the virtual personal assistants and chatbots,  you'll see no interface problems about reaching the content. Let's dive into the magical world of VPAs and chatbots to see how the voice interactions and the conversational UX make our daily life easier than ever.",
+      "id" : 104,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 12 ],
+      "tags" : [ "UX", "UI" ],
+      "title" : "Hey Google; Whats Next?"
+    },
+    "105" : {
+      "complexity" : "",
+      "description" : "How to deploy microservices with Docker Swarm, what problems can arise and how we solve them.",
+      "id" : 105,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 4 ],
+      "tags" : [ "Docker", "Microservices" ],
+      "title" : "Microservices with Docker Swarm"
+    },
+    "106" : {
+      "complexity" : "",
+      "description" : "In this workshop, we'll learn what the Java 9 module system brings to Java developers and how to work with modules by demonstrating different scenarios.",
+      "id" : 106,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 5 ],
+      "tags" : [ "Java" ],
+      "title" : "Java Module System"
+    },
+    "107" : {
+      "complexity" : "",
+      "description" : "Introduction to Cloud Firestore, Phone Auth, Fabric, Google Analytics for Firebase, Firebase Performance and Cloud Functions",
+      "id" : 107,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 20 ],
+      "tags" : [ "Firebase" ],
+      "title" : "What's New in Firebase?"
+    },
+    "108" : {
+      "complexity" : "",
+      "description" : "Android Things samples and demo project led on-off",
+      "id" : 108,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 11 ],
+      "tags" : [ "IoT", "Android" ],
+      "title" : "Android Things"
+    },
+    "109" : {
+      "complexity" : "",
+      "description" : "I will talk about software testing, test automation on web,mobile,responsive platforms. What is test automation engineer doing? What is his/her role in the cycle? What is continuous integration and importance of it. Some popular tools in this area. Sharing experiences from business flow and work environment(sahibinden.com)",
+      "id" : 109,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 19 ],
+      "tags" : [ "Test", "QA" ],
+      "title" : "Yazılım Süreçlerinde Test Otomasyon ve Continuous Integration"
+    },
+    "110" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 110,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 16 ],
+      "tags" : [ "Firebase", "Cordova" ],
+      "title" : "Develop Mobile App Cordova and Firebase"
+    },
+    "111" : {
+      "complexity" : "",
+      "description" : "A collection of libraries that help you design robust, testable, and maintainable apps. Start with classes for managing your UI component lifecycle and handling data persistence.",
+      "id" : 111,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 10 ],
+      "tags" : [ "Android" ],
+      "title" : "Android Architecture Components"
+    },
+    "112" : {
+      "complexity" : "",
+      "description" : "In this session, we will talk about Modern Android Development topics.",
+      "id" : 112,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 15 ],
+      "tags" : [ "Android" ],
+      "title" : "Modern Android Development"
+    },
+    "113" : {
+      "complexity" : "",
+      "description" : "In traditional database design on RDBMS, we strictly obey the rules of 3rd normalization form. Since RDBMS is a single point of failure, we may switch to Nosql systems such as Couchbase and MongoDB. Switching to NoSQL comes with both advantages and disadvantages. To leverage the Nosql benefits, we need to redesign the entities by breaking the rules of normalization. This approach also comes with some mind shift on coding the persistence layer. I will talk about 'how hard the rules should be punched' according to a real Nosql migration of us.",
+      "id" : 113,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 14 ],
+      "tags" : [ "NoSQL" ],
+      "title" : "Redesigning RDBMS Data Structure For Nosql"
+    },
+    "114" : {
+      "complexity" : "",
+      "description" : "Making a simple client-side web application using 'ReactJS' to cover the solutions of common frontend development problems and then creating a simple cross-platform mobile application using 'React-Native' to study React-Native's approach for developing mobile applications and to show the similarities and differences between those two platforms.",
+      "id" : 114,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 17, 18 ],
+      "tags" : [ "React", "Web" ],
+      "title" : "React and React-Native Workshop"
+    },
+    "115" : {
+      "complexity" : "",
+      "description" : "Being a company with 16 offices worldwide and distributed development teams, we will talk about our experiences on maintaining a solid product & engineering culture while scaling the team from 1 to 10 to 100.",
+      "id" : 115,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 6 ],
+      "tags" : [ "Entrepreneurship" ],
+      "title" : "Scaling Your Engineering Culture"
+    }
+  },
   "speakers": [
     {
       "bio": "",
@@ -99,7 +275,7 @@
       "country": "Istanbul, Turkey",
       "featured": true,
       "id": 8,
-      "name": "Dr. Sadi Evren Şeker",
+      "name": "Dr. Şadi Evren Şeker",
       "photoUrl": "http://sadievrenseker.com/wp/wp-content/uploads/2013/11/Sadi_Seker_17.jpg",
       "shortBio": "",
       "socials": [
@@ -258,7 +434,7 @@
       "country": "Izmir, Turkey",
       "featured": false,
       "id": 5,
-      "name": "Hakan Ozler",
+      "name": "Hakan Özler",
       "photoUrl": "/images/people/hakan_ozler.jpg",
       "shortBio": "",
       "socials": [
@@ -339,10 +515,10 @@
       "company": "",
       "companyLogo": "",
       "country": "Izmir, Turkey",
-      "featured": true,
+      "featured": false,
       "id": 11,
       "name": "Yakut Özcan",
-      "photoUrl": "https://lh4.googleusercontent.com/IkyEf3-5CZ_WLZV5EHIdwHznuG2ISv7jcizn5Cn-eF7ZT4gyvQb_sZ9WE2Op-yW8HeCDHZ6YL0poMfw=w3360-h1906-rw",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fyakut_ozcan.jpeg?alt=media&token=315978bb-eaf5-4572-901c-f74f0d63a40e",
       "shortBio": "",
       "socials": [
         {
@@ -366,6 +542,222 @@
         "Android"
       ],
       "title": "IoT Developer"
+    },
+    {
+      "bio": "Ege Üniversitesi Bilgisayar Mühendisliği 2007 lisans, 2009 yüksek lisans mezunuyum. 2014 yılından beri Linovi'de backend developer olarak çalışmaktayım.",
+      "company": "Linovi",
+      "companyLogo": "/images/logos/linovi.png",
+      "country": "Izmir, Turkey",
+      "featured": false,
+      "id": 13,
+      "name": "Övünç Çetin",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fovunc_cetin.JPG?alt=media&token=368c1be4-9b7d-4614-a19f-397b284afbbf",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ovunccetin/",
+          "name": "Linkedin"
+        }
+      ],
+      "tags": [
+        "AI"
+      ],
+      "title": "Backend Developer"
+    },
+    {
+      "bio": "2009 yılında Yeditepe Üniversitesi Bilgisayar Mühendisliğinden mezun oldum. Daha önce Gittigidiyor, Huawei, Netaş, Avivasa'da çalıştım ve şimdi Monitise'da kıdemli yazılım geliştirici olarak görev alıyorum. Son zamanlarda mikroservis ve cloud teknolojileri, NoSQL, Docker, Kubernetes gibi teknolojiler ile çalışıyorum. Daha önce Spring ve JavaEE üzerinde 7 sene calıştım. Blog yazılarımda Türkiyedeki yazılımcılara faydalı olmaya çalışıyorum.",
+      "company": "Monitise",
+      "companyLogo": "/images/logos/monitise.png",
+      "country": "Izmir, Turkey",
+      "featured": true,
+      "id": 14,
+      "name": "Talha Ocakçı",
+      "photoUrl": "https://pbs.twimg.com/profile_images/827482841772494849/49pbT_pB_400x400.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/talhaocakci/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@talhaocakci",
+          "name": "Website"
+        }
+      ],
+      "tags": [
+        "NoSQL"
+      ],
+      "title": "Software Engineer"
+    },
+    {
+      "bio": "Murat is an Android developer, and blogger. He is dedicated to continuously discovering, evaluating, and implementing new technologies to maximize development efficiency. He's actively involved in the Android community too – writing blog posts, and giving talks.",
+      "company": "dolap.com",
+      "companyLogo": "https://cdn.dolap.com/web/images/logo-1.svg",
+      "country": "Istanbul, Turkey",
+      "featured": true,
+      "id": 15,
+      "name": "Murat Can Bur",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fmurat_can_bur.jpg?alt=media&token=1d4710ab-0439-4970-b47a-03ef154347f2",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/muratcanbur",
+          "name": "GitHub"
+        }
+      ],
+      "tags": [
+        "Android"
+      ],
+      "title": "Android Developer"
+    },
+    {
+      "bio": "",
+      "company": "Konseptiz",
+      "companyLogo": "",
+      "country": "Izmir, Turkey",
+      "featured": false,
+      "id": 16,
+      "name": "Sarp Doruk Aslan",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fsarp_doruk_aslan.jpg?alt=media&token=1d078bd2-7925-445f-b31d-43d630df7dd1",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/sarpdorukaslan",
+          "name": "GitHub"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sarpdorukaslan",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "Firebase",
+        "Web"
+      ],
+      "title": "Web Developer"
+    },
+    {
+      "bio": "I’ve been working on front-end web development for Linovi since last year. For two years, following and investigating new technologies occurring on front-end world and happy to learn anything that is related with JavaScript especially focusing on technologies for “React.JS” and “Angular.JS”.",
+      "company": "Linovi",
+      "companyLogo": "/images/logos/linovi.png",
+      "country": "Izmir, Turkey",
+      "featured": false,
+      "id": 17,
+      "name": "Ali Sait Bilgi",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fali_sait_bilgi.PNG?alt=media&token=99f571cf-88a6-4a56-9a30-5a0bdbb5f9cd",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/alisaitbilgi",
+          "name": "GitHub"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ali-sait-bilgi-7a98b6127",
+          "name": "Linkedin"
+        }
+      ],
+      "tags": [
+        "React",
+        "Web"
+      ],
+      "title": "Software Engineer"
+    },
+    {
+      "bio": "Frontend Engineer at Linovi, MSc student at Iztech focusing on Computer Vision, Open Source Hobbyist, Amateur Photographer, Cyclist",
+      "company": "Linovi",
+      "companyLogo": "/images/logos/linovi.png",
+      "country": "Izmir, Turkey",
+      "featured": false,
+      "id": 18,
+      "name": "Onur Temizkan",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fonur_temizkan.jpg?alt=media&token=db99752d-7267-415e-a209-8394925b496c",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/onurtemizkan",
+          "name": "GitHub"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/onurtemizkan/",
+          "name": "Linkedin"
+        }
+      ],
+      "tags": [
+        "React",
+        "Web"
+      ],
+      "title": "Software Engineer"
+    },
+    {
+      "bio": "Graduated from İzmir Buca Anadolu Lisesi, Graduated from computer science engineering Marmara University, Working in sahibinden.com for 4 years as QA & Test Automation Engineer, 2 years social voluentering with AIESEC, Several social projects in Youth in Action programe",
+      "company": "sahibinden.com",
+      "companyLogo": "http://www.freelogovectors.net/wp-content/uploads/2013/06/sahibinden.com-logo.jpg",
+      "country": "Istanbul, Turkey",
+      "featured": false,
+      "id": 19,
+      "name": "Burak Ergören",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fburak_ergoren.jpg?alt=media&token=ff7da4c4-f910-4ffe-888e-ab0616f0a75f",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/burakergoren/",
+          "name": "Linkedin"
+        }
+      ],
+      "tags": [
+        "QA",
+        "Test"
+      ],
+      "title": "Software QA Engineer"
+    },
+    {
+      "bio": "Computer engineering student at Dumlupinar University. Android Developer. Android and Firebase blogger. GDG Kutahya Organizer.",
+      "company": "GDG Kütahya",
+      "companyLogo": "",
+      "country": "Kütahya, Turkey",
+      "featured": false,
+      "id": 20,
+      "name": "Sinan Yılmaz",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fsinan_yilmaz.jpg?alt=media&token=efb325e8-e1ca-4924-9ffd-44728e909c22",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "website",
+          "link": "http://medium.com/@sinanyilmaz",
+          "name": "Website"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sinannnyilmaz",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sinannnyilmaz",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/SinanYilmaz9",
+          "name": "GitHub"
+        }
+      ],
+      "tags": [
+        "Firebase",
+        "Android"
+      ],
+      "title": "Android Developer"
     }
   ],
   "tickets": {
