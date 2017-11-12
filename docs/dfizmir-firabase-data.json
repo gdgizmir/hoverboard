@@ -60,7 +60,7 @@
         "startTime" : "10:30"
       }, {
         "endTime" : "12:20",
-        "sessions" : [ [ 101 ], [ 104 ], [ 102 ], [ 110 ], [ 100 ] ],
+        "sessions" : [ [ 101 ], [ 104 ], [ 102 ], [ 1102 ], [ 100 ] ],
         "startTime" : "11:30"
       }, {
         "endTime" : "13:00",
@@ -72,7 +72,7 @@
         "startTime" : "13:00"
       }, {
         "endTime" : "14:50",
-        "sessions" : [ [ 115 ], [ 100 ], [ 114 ], [ 107 ], [ 100 ] ],
+        "sessions" : [ [ 115 ], [ 100 ], [ 1142 ], [ 107 ], [ 100 ] ],
         "startTime" : "14:00"
       }, {
         "endTime" : "15:50",
@@ -80,7 +80,7 @@
         "startTime" : "15:00"
       }, {
         "endTime" : "16:50",
-        "sessions" : [ [ 100 ], [ 100 ], [ 105 ], [ 113 ], [ 100 ] ],
+        "sessions" : [ [ 100 ], [ 116 ], [ 105 ], [ 113 ], [ 100 ] ],
         "startTime" : "16:00"
       } ],
       "tracks" : [ {
@@ -101,13 +101,19 @@
       "description" : "",
       "id" : 98,
       "image" : "/images/backgrounds/registration.jpg",
-      "title" : "Kayıt"
+      "title" : "Kayıt",
+      "track" : {
+        "title" : "Fuaye alanı"
+      }
     },
     "99" : {
       "description" : "",
       "id" : 99,
       "image" : "/images/backgrounds/lunch.jpg",
-      "title" : "Öğle Arası"
+      "title" : "Öğle Arası",
+      "track" : {
+        "title" : ""
+      }
     },
     "100" : {
       "complexity" : "",
@@ -117,7 +123,10 @@
       "presentation" : "",
       "speakers" : [ ],
       "tags" : [ ],
-      "title" : "TBA"
+      "title" : "TBA",
+      "track" : {
+        "title" : ""
+      }
     },
     "101" : {
       "complexity" : "",
@@ -217,7 +226,17 @@
       "presentation" : "",
       "speakers" : [ 16 ],
       "tags" : [ "Firebase", "Cordova" ],
-      "title" : "Develop Mobile App Cordova and Firebase"
+      "title" : "Develop Mobile App Cordova and Firebase (Part 1)"
+    },
+    "1102" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 1102,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 16 ],
+      "tags" : [ "Firebase", "Cordova" ],
+      "title" : "Develop Mobile App Cordova and Firebase (Part 2)"
     },
     "111" : {
       "complexity" : "",
@@ -257,7 +276,17 @@
       "presentation" : "",
       "speakers" : [ 17, 18 ],
       "tags" : [ "Web", "React" ],
-      "title" : "React and React-Native Workshop"
+      "title" : "React and React-Native Workshop (Part 1)"
+    },
+    "1142" : {
+      "complexity" : "",
+      "description" : "Making a simple client-side web application using 'ReactJS' to cover the solutions of common frontend development problems and then creating a simple cross-platform mobile application using 'React-Native' to study React-Native's approach for developing mobile applications and to show the similarities and differences between those two platforms.",
+      "id" : 1142,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 17, 18 ],
+      "tags" : [ "Web", "React" ],
+      "title" : "React and React-Native Workshop (Part 2)"
     },
     "115" : {
       "complexity" : "",
@@ -268,6 +297,16 @@
       "speakers" : [ 6 ],
       "tags" : [ "Entrepreneurship" ],
       "title" : "Scaling Your Engineering Culture"
+    },
+    "116" : {
+      "complexity" : "",
+      "description" : "Kotlin is a very flexible programming language. You have a chance to write more readable and good-looking code. The only limit is your imagination and creativity. I will show you some examples which are really handsome :)",
+      "id" : 116,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 1 ],
+      "tags" : [ "Android", "Kotlin" ],
+      "title" : "Handsome codes with Kotlin"
     }
   },
   "speakers": [
@@ -638,7 +677,7 @@
     },
     {
       "bio": "2009 yılında Yeditepe Üniversitesi Bilgisayar Mühendisliğinden mezun oldum. Daha önce Gittigidiyor, Huawei, Netaş, Avivasa'da çalıştım ve şimdi Monitise'da kıdemli yazılım geliştirici olarak görev alıyorum. Son zamanlarda mikroservis ve cloud teknolojileri, NoSQL, Docker, Kubernetes gibi teknolojiler ile çalışıyorum. Daha önce Spring ve JavaEE üzerinde 7 sene calıştım. Blog yazılarımda Türkiyedeki yazılımcılara faydalı olmaya çalışıyorum.",
-      "company": "Monitise",
+      "company": "Monitise MEA",
       "companyLogo": "/images/logos/monitise.png",
       "country": "Izmir, Turkey",
       "featured": true,

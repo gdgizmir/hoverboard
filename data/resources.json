@@ -55,8 +55,8 @@
   "youShouldSignInSessions": "Oturumları kaydetmek için giriş yapın",
   "youShouldSignInRating": "Oturumlara puan vermek için giriş yapın",
   "offlineMessage": "Çevrimdışısın",
-  "removedFromSchedule": "Ajandamdan sil",
-  "addedToSchedule": "Ajandama ekle",
+  "removedFromSchedule": "Ajandadan silindi",
+  "addedToSchedule": "Ajandaya eklendi",
   "rateSession": "Oturumlara puan ver",
   "footerBlocks": [
     {
