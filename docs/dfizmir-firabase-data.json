@@ -60,7 +60,7 @@
         "startTime" : "10:30"
       }, {
         "endTime" : "12:20",
-        "sessions" : [ [ 101 ], [ 104 ], [ 102 ], [ 1102 ], [ 100 ] ],
+        "sessions" : [ [ 101 ], [ 100 ], [ 102 ], [ 1102 ], [ 100 ] ],
         "startTime" : "11:30"
       }, {
         "endTime" : "13:00",
@@ -68,7 +68,7 @@
         "startTime" : "12:20"
       }, {
         "endTime" : "13:50",
-        "sessions" : [ [ 100 ], [ 111 ], [ 114 ], [ 109 ], [ 100 ] ],
+        "sessions" : [ [ 117 ], [ 111 ], [ 114 ], [ 109 ], [ 100 ] ],
         "startTime" : "13:00"
       }, {
         "endTime" : "14:50",
@@ -76,7 +76,7 @@
         "startTime" : "14:00"
       }, {
         "endTime" : "15:50",
-        "sessions" : [ [ 100 ], [ 112 ], [ 103 ], [ 100 ], [ 100 ] ],
+        "sessions" : [ [ 100 ], [ 112 ], [ 103 ], [ 104 ], [ 100 ] ],
         "startTime" : "15:00"
       }, {
         "endTime" : "16:50",
@@ -116,13 +116,8 @@
       }
     },
     "100" : {
-      "complexity" : "",
       "description" : "",
       "id" : 100,
-      "language" : "",
-      "presentation" : "",
-      "speakers" : [ ],
-      "tags" : [ ],
       "title" : "TBA",
       "track" : {
         "title" : ""
@@ -160,13 +155,13 @@
     },
     "104" : {
       "complexity" : "",
-      "description" : "Since the beginning, a UX designers’ job is assisting the user to perform the needed task in the possible shortest time by minimalizing the information and the interface they interacted.  Nowadays, things are a bit different than the past. Now, users don't even have to look for the content to get the answer. The only thing they need to do is talking with a chatbot or a virtual personal assistant which response in seconds! So, for a UX designer, things are tougher than ever. If you look the evolution of the virtual personal assistants and chatbots,  you'll see no interface problems about reaching the content. Let's dive into the magical world of VPAs and chatbots to see how the voice interactions and the conversational UX make our daily life easier than ever.",
+      "description" : "Yazılımcının ya da tasarımcının aklına bir fikir geldiğinde bunu mağazaya çıkartana kadar geçireceği süreçlerin kısa bir özetini anlatacağım. En çok hangi noktalarda zorlanılıyor, en çok dikkat edilmesi gereken nokta nedir, iyi bir uygulamanın sahip olması gereken ana özellikler nelerdir.",
       "id" : 104,
       "language" : "Turkish",
       "presentation" : "",
       "speakers" : [ 12 ],
-      "tags" : [ "UX", "UI" ],
-      "title" : "Hey Google; Whats Next?"
+      "tags" : [ "Mobile" ],
+      "title" : "Fikir Aşamasından Uygulama Geliştirmek"
     },
     "105" : {
       "complexity" : "",
@@ -307,6 +302,16 @@
       "speakers" : [ 1 ],
       "tags" : [ "Android", "Kotlin" ],
       "title" : "Handsome codes with Kotlin"
+    },
+    "117" : {
+      "complexity" : "",
+      "description" : "Google’ın insansız araç teknolojisinden, mobil dünyasında yaşanan gelişmelere ve internet için hızla önem kazanan büyük veri ve veri bilimi konularının günümüzde ulaştığı boyutlar ve gelecekte karşılaşmayı bekleyeceğimiz ve kendimizi hazırlamamız gereken yenilikler. Kısaca, bilim, teknoloji ve toplum açısından bilişim dünyası ve bu dünyadaki gelişmelere genel bir bakış sunulacaktır.",
+      "id" : 117,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 8 ],
+      "tags" : [ "Innovation", "Computer Science" ],
+      "title" : "Internet Mobil ve Ötesi"
     }
   },
   "speakers": [
@@ -470,39 +475,6 @@
         "Kotlin"
       ],
       "title": "Android Developer"
-    },
-    {
-      "bio": "Caner is a UX designer who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android. Previously he worked in a publication company on digital magazines. Today, he works at InnovationBox, a design agency in Istanbul making and creating apps that users love. Caner has been a user group leader at GDG Istanbul since 2013, organising, participating, and speaking at events. He shares his experience in User Experience via conferences or workshops at Droidcon, DevFest, and other conferences.",
-      "company": "t-mob",
-      "companyLogo": "http://thinksmobility.com/wp-content/uploads/2015/08/TmobLogo.png",
-      "country": "Istanbul, Turkey",
-      "featured": true,
-      "id": 12,
-      "name": "Resul Caner Yıldırım",
-      "photoUrl": "https://lh3.googleusercontent.com/4ocfSRluqkExTNEgoydYD9hqKkDzDFTVOv6t8ZdBeBeZqbD6VMx8GAF5yLSTPFpl1N07R5hXRggthTN7BM1bLsePfLiRcuUwQQpLFh7XmZtEitRxNRLAb421gXtPvyi_GwwudZaJJYVsiwxoywT0yx0rrT-hHKVGTH9JSuyr_X7s7YF3GWWtFDKGmpFVmvl61sFVeHmbrM4_YokM42Bk8o-MtHAoLntXmoSxGnHwCqmq8ZXv-Aep8ckWxP_qqaOGG0AtpJH1NpsdqvUYsRdA9uXzabXvMS73ttQd67D1Ya6OIql_-0P3tBktcXFcEaO5_MDVxg8TauzgavnsVw-Y47VwhvWzzCDn5bPoRqlboTpmW-_JJuKvY6uErbWa9qggazTnbCDBfxQuOPn7TI9x7IxE8gPzBHSlEmHUoKSW77iytJiJPs7V_EEfEOoRCGRhEp4zjbaUPS4fOtjKHXCCOg5glj-P3-hdbuhwHizZOqeGhahmYjpatDY_t3INGMJ0bL52EKWF3zWXtE0svbc2gQYUeQQNISNtlGRemrsgITG9Bdd5niOmiWlWAO_ddRtOMQyg7c6BgxZFGfBwm5RFIYf6IvvuY611nbQz-SPTIQX5ayiqRoaPBlPhtRpjhsmePcU4zeCgJmiXA_vhUXhPSp5tlFtHrc3YJzQv=w1251-h1250-no",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "website",
-          "link": "http://dribbble.com/protechman",
-          "name": "Website"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://linkedin.com/in/protechman",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/protechman",
-          "name": "Twitter"
-        }
-      ],
-      "tags": [
-        "UX",
-        "UI"
-      ],
-      "title": "Experience Designer"
     },
     {
       "bio": "Software Development Team Leader at @MonitiseMEA. Hacker, #Linux & #Docker Enthusiast, Believer of Open Source Software. Lives in İzmir, Turkey.",
@@ -830,6 +802,28 @@
         "Test"
       ],
       "title": "Software QA Engineer"
+    },
+    {
+      "bio": "2010 yılından beri yazılım geliştiriyor. 2014-2016 yılları arasında mobil uygulama geliştirme takımına liderlik yaptı. 1,5 senedir Freelance iOS geliştiricisi olarak çalışıyor. Yerli ve yabancı birçok projede farklı pozisyonlarda görev aldı. Aktif olarak çalıştığı projelerinin yanısıra kendi projelerini de geliştiriyor ve çeşitli blog sitelerinde girişimcilik ve yazılım üzerine yazılar yazıyor.",
+      "company": "",
+      "companyLogo": "",
+      "country": "Istanbul, Turkey",
+      "featured": false,
+      "id": 12,
+      "name": "Celil Bozkurt",
+      "photoUrl": "https://i.hizliresim.com/zJpX5D.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/celilbozkurt",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [
+        "Mobile"
+      ],
+      "title": "iOS Developer"
     },
     {
       "bio": "Computer engineering student at Dumlupinar University. Android Developer. Android and Firebase blogger. GDG Kutahya Organizer.",
