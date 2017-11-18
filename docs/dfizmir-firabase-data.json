@@ -86,7 +86,7 @@
         "startTime" : "13:30"
       }, {
         "endTime" : "15:20",
-        "sessions" : [ [ 115 ], [ 100 ], [ 102 ], [ 107 ], [ 100 ] ],
+        "sessions" : [ [ 115 ], [ 119 ], [ 102 ], [ 107 ], [ 100 ] ],
         "startTime" : "14:30"
       }, {
         "endTime" : "16:20",
@@ -341,6 +341,16 @@
       "speakers" : [ 21 ],
       "tags" : [ "Git" ],
       "title" : "Git Anti-Patterns: How To Mess Up With Git And Love It Again"
+    },
+    "119" : {
+      "complexity" : "",
+      "description" : "ExoPlayer is an media player software library for Android. It provides an alternative to Android’s MediaPlayer API for playing audio and video both locally and over the Internet.",
+      "id" : 119,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 3 ],
+      "tags" : [ "Android" ],
+      "title" : "ExoPlayer - Life of a small, open source project in Google"
     }
   },
   "speakers": [
