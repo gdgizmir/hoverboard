@@ -23,6 +23,16 @@
     {
       "logos": [
         {
+          "logoUrl": "../images/logos/monitise.png",
+          "name": "Monitise MEA is Fiserv",
+          "url": "https://www.monitise.com/mea/"
+        }
+      ],
+      "title": "Bronz Sponsor"
+    },
+    {
+      "logos": [
+        {
           "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fhdteknohaber.png?alt=media&token=0431f065-92e2-40dd-99c2-cebac2064317",
           "name": "Hdteknohaber",
           "url": "http://www.hdteknohaber.com/"
@@ -55,33 +65,37 @@
         "sessions" : [ [ 98 ] ],
         "startTime" : "09:30"
       }, {
-        "endTime" : "11:20",
-        "sessions" : [ [ 100 ], [ 108 ], [ 106 ], [ 110 ], [ 100 ] ],
+        "endTime" : "11:00",
+        "sessions" : [ [ 97 ] ],
         "startTime" : "10:30"
       }, {
-        "endTime" : "12:20",
-        "sessions" : [ [ 101 ], [ 100 ], [ 102 ], [ 1102 ], [ 100 ] ],
-        "startTime" : "11:30"
+        "endTime" : "11:50",
+        "sessions" : [ [ 118 ], [ 108 ], [ 106 ], [ 110 ], [ 100 ] ],
+        "startTime" : "11:00"
       }, {
-        "endTime" : "13:00",
+        "endTime" : "12:50",
+        "sessions" : [ [ 101 ], [ 100 ], [ 103 ], [ 1102 ], [ 100 ] ],
+        "startTime" : "12:00"
+      }, {
+        "endTime" : "13:30",
         "sessions" : [ [ 99 ] ],
-        "startTime" : "12:20"
+        "startTime" : "12:50"
       }, {
-        "endTime" : "13:50",
-        "sessions" : [ [ 117 ], [ 111 ], [ 114 ], [ 109 ], [ 100 ] ],
-        "startTime" : "13:00"
+        "endTime" : "14:20",
+        "sessions" : [ [ 117 ], [ 111 ], [ 105 ], [ 109 ], [ 100 ] ],
+        "startTime" : "13:30"
       }, {
-        "endTime" : "14:50",
-        "sessions" : [ [ 115 ], [ 100 ], [ 1142 ], [ 107 ], [ 100 ] ],
-        "startTime" : "14:00"
+        "endTime" : "15:20",
+        "sessions" : [ [ 115 ], [ 100 ], [ 102 ], [ 107 ], [ 100 ] ],
+        "startTime" : "14:30"
       }, {
-        "endTime" : "15:50",
-        "sessions" : [ [ 100 ], [ 112 ], [ 103 ], [ 104 ], [ 100 ] ],
-        "startTime" : "15:00"
+        "endTime" : "16:20",
+        "sessions" : [ [ 100 ], [ 112 ], [ 114 ], [ 104 ], [ 100 ] ],
+        "startTime" : "15:30"
       }, {
-        "endTime" : "16:50",
-        "sessions" : [ [ 100 ], [ 116 ], [ 105 ], [ 113 ], [ 100 ] ],
-        "startTime" : "16:00"
+        "endTime" : "17:20",
+        "sessions" : [ [ 100 ], [ 116 ], [ 1142 ], [ 113 ], [ 100 ] ],
+        "startTime" : "16:30"
       } ],
       "tracks" : [ {
         "title" : "Gevrek"
@@ -97,6 +111,11 @@
     }
   ],
   "sessions": {
+    "97" : {
+      "description" : "",
+      "id" : 97,
+      "title" : "Keynote"
+    },
     "98" : {
       "description" : "",
       "id" : 98,
@@ -312,6 +331,16 @@
       "speakers" : [ 8 ],
       "tags" : [ "Innovation", "Computer Science" ],
       "title" : "Internet Mobil ve Ötesi"
+    },
+    "118" : {
+      "complexity" : "",
+      "description" : "Git is one of the most powerful tool in developers' toolbox. If you use it correctly, it dramatically increases productivity of developers and eliminates the waste products continuously. Developers cultivate a development culture on top Git most of the time. It's powerful but its power is untamed. Many teams fall into several traps of misusing commands and therefore feel uncomfortable while using Git. We mess up Git history, the codebase and the whole preferred branching strategy in seconds. We use branches, merge/rebase strategies, creating commits in wrong ways. Even we never take committing paradigms into account while using Git. As a software craftsman, I've been using Git for years and I've already educated Git to hundreds of developers in all levels. I'm so lucky; I had a chance to experience huge amount of anti-patterns in time. In this talk, I will talk about what those anti-patterns are and what should we do in order not to fall into them.",
+      "id" : 118,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 21 ],
+      "tags" : [ "Git" ],
+      "title" : "Git Anti-Patterns: How To Mess Up With Git And Love It Again"
     }
   },
   "speakers": [
@@ -410,6 +439,44 @@
         "MIS"
       ],
       "title": "Executive Director"
+    },
+    {
+      "bio": "Lemi Orhan Ergin has been working as Agile Software Craftsman and Agile Practice Lead at iyzico. He completed his undergraduate and graduate degree in Computer Engineering department of Marmara University. He has been actively developing software since 2001. He has worked as software architect, software craftsman, technical leader, team leader, technical coordinator, Scrum Master and Agile coach in dozens of software projects at BYM, GittiGidiyor / eBay and Sony. As a managing partner in ACM, he has provided consulting services to dozens of companies. He has led the establishment of agile software cultures, continuity and sustainability in software teams. He has been sharing his experience about Agile / Scrum, Kanban, Management 3.0, Git, ALM Processes, TDD, Clean Code, Agile Engineering Practices and Software Craftsmanship with hundreds of professionals. He has been a national and international conference speaker. Slides of his talks has been displayed more than 1 million times on the Internet. He works voluntarily in software communities. He is the founder of the Software Craftsmanship Turkey community. He had been the leader of the community and the product owner of Agile Turkey Summit and CraftSummit conferences for two years.",
+      "company": "iyzico",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/company%2Fiyzico.png?alt=media&token=91db85b4-28a1-4aca-a6b9-f69a1c07b515",
+      "country": "Istanbul, Turkey",
+      "featured": true,
+      "id": 21,
+      "name": "Lemi Orhan Ergin",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Flemi_orhan_ergin.jpg?alt=media&token=7f3451df-200b-4d88-b892-43274b07139a",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/lemiorhan/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/lemiorhan",
+          "name": "GitHub"
+        },
+        {
+          "icon": "website",
+          "link": "http://www.lemiorhanergin.com/",
+          "name": "Website"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/lemiorhan",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [ 
+        "Agile",
+        "Git"
+      ],
+      "title": "Agile Software Craftsman"
     },
     {
       "bio": "",
