@@ -1,126 +1,104 @@
 {
-  "partners": [
-    {
-      "logos": [
-        {
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://developers.google.com/"
-        }
-      ],
-      "title": "Ana sponsor"
-    },
-    {
-      "logos": [
-        {
-          "logoUrl": "../images/logos/linovi.png",
-          "name": "Linovi",
-          "url": "http://www.linovi.com/"
-        }
-      ],
-      "title": "Altın Sponsor"
-    },
-    {
-      "logos": [
-        {
-          "logoUrl": "../images/logos/monitise.png",
-          "name": "Monitise MEA is Fiserv",
-          "url": "https://www.monitise.com/mea/"
-        }
-      ],
-      "title": "Bronz Sponsor"
-    },
-    {
-      "logos": [
-        {
-          "logoUrl": "../images/logos/jetbrains.svg",
-          "name": "JetBrains",
-          "url": "https://www.jetbrains.com/"
-        }
-      ],
-      "title": "Hediye Sponsoru"
-    },
-    {
-      "logos": [
-        {
-          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fhdteknohaber.png?alt=media&token=0431f065-92e2-40dd-99c2-cebac2064317",
-          "name": "Hdteknohaber",
-          "url": "http://www.hdteknohaber.com/"
-        },
-        {
-          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fwebmasto.png?alt=media&token=cc8f65a0-1553-4a39-b182-c3b591b0a7cb",
-          "name": "Webmasto",
-          "url": "http://webmasto.com/"
-        }
-      ],
-      "title": "Medya Sponsorları"
-    },
-    {
-      "logos": [
-        {
-          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fyasar_ieee.jpeg?alt=media&token=1aac0c00-b505-4c8d-a9f7-961c2241b028",
-          "name": "Yasar Universitesi IEEE",
-          "url": "https://sks.yasar.edu.tr/ogrenci-topluluklari/ieee-muhendislik-toplulugu/"
-        }
-      ],
-      "title": "Destekleyenler"
-    }
-  ],
-  "schedule": [
-    {
-      "date" : "2017-12-03",
-      "dateReadable" : "3 Aralık",
-      "timeslots" : [ {
-        "endTime" : "10:30",
-        "sessions" : [ [ 98 ] ],
-        "startTime" : "09:30"
-      }, {
-        "endTime" : "11:00",
-        "sessions" : [ [ 97 ] ],
-        "startTime" : "10:30"
-      }, {
-        "endTime" : "11:50",
-        "sessions" : [ [ 118 ], [ 108 ], [ 106 ], [ 110 ], [ 100 ] ],
-        "startTime" : "11:00"
-      }, {
-        "endTime" : "12:50",
-        "sessions" : [ [ 101 ], [ 100 ], [ 103 ], [ 1102 ], [ 100 ] ],
-        "startTime" : "12:00"
-      }, {
-        "endTime" : "13:30",
-        "sessions" : [ [ 99 ] ],
-        "startTime" : "12:50"
-      }, {
-        "endTime" : "14:20",
-        "sessions" : [ [ 117 ], [ 111 ], [ 105 ], [ 109 ], [ 100 ] ],
-        "startTime" : "13:30"
-      }, {
-        "endTime" : "15:20",
-        "sessions" : [ [ 115 ], [ 119 ], [ 102 ], [ 107 ], [ 100 ] ],
-        "startTime" : "14:30"
-      }, {
-        "endTime" : "16:20",
-        "sessions" : [ [ 100 ], [ 112 ], [ 114 ], [ 104 ], [ 100 ] ],
-        "startTime" : "15:30"
-      }, {
-        "endTime" : "17:20",
-        "sessions" : [ [ 100 ], [ 116 ], [ 1142 ], [ 113 ], [ 100 ] ],
-        "startTime" : "16:30"
-      } ],
-      "tracks" : [ {
-        "title" : "Gevrek"
-      }, {
-        "title" : "Çiğdem"
-      }, {
-        "title" : "Boyoz"
-      }, {
-        "title" : "Kumru"
-      }, {
-        "title" : "Darı"
-      } ]
-    }
-  ],
-  "sessions": {
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://developers.google.com/"
+    } ],
+    "title" : "Ana sponsor"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/linovi.png",
+      "name" : "Linovi",
+      "url" : "http://www.linovi.com/"
+    } ],
+    "title" : "Altın Sponsor"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/monitise.png",
+      "name" : "Monitise MEA is Fiserv",
+      "url" : "https://www.monitise.com/mea/"
+    } ],
+    "title" : "Bronz Sponsor"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/jetbrains.svg",
+      "name" : "JetBrains",
+      "url" : "https://www.jetbrains.com/"
+    } ],
+    "title" : "Hediye Sponsoru"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fhdteknohaber.png?alt=media&token=0431f065-92e2-40dd-99c2-cebac2064317",
+      "name" : "Hdteknohaber",
+      "url" : "http://www.hdteknohaber.com/"
+    }, {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fwebmasto.png?alt=media&token=cc8f65a0-1553-4a39-b182-c3b591b0a7cb",
+      "name" : "Webmasto",
+      "url" : "http://webmasto.com/"
+    } ],
+    "title" : "Medya Sponsorları"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fyasar_ieee.jpeg?alt=media&token=1aac0c00-b505-4c8d-a9f7-961c2241b028",
+      "name" : "Yasar Universitesi IEEE",
+      "url" : "https://sks.yasar.edu.tr/ogrenci-topluluklari/ieee-muhendislik-toplulugu/"
+    } ],
+    "title" : "Destekleyenler"
+  } ],
+  "schedule" : [ {
+    "date" : "2017-12-03",
+    "dateReadable" : "3 Aralık",
+    "timeslots" : [ {
+      "endTime" : "10:30",
+      "sessions" : [ [ 98 ] ],
+      "startTime" : "09:30"
+    }, {
+      "endTime" : "11:00",
+      "sessions" : [ [ 97 ] ],
+      "startTime" : "10:30"
+    }, {
+      "endTime" : "11:50",
+      "sessions" : [ [ 118 ], [ 108 ], [ 106 ], [ 110 ], [ 100 ] ],
+      "startTime" : "11:00"
+    }, {
+      "endTime" : "12:50",
+      "sessions" : [ [ 101 ], [ 100 ], [ 103 ], [ 1102 ], [ 100 ] ],
+      "startTime" : "12:00"
+    }, {
+      "endTime" : "13:30",
+      "sessions" : [ [ 99 ] ],
+      "startTime" : "12:50"
+    }, {
+      "endTime" : "14:20",
+      "sessions" : [ [ 117 ], [ 111 ], [ 105 ], [ 109 ], [ 100 ] ],
+      "startTime" : "13:30"
+    }, {
+      "endTime" : "15:20",
+      "sessions" : [ [ 115 ], [ 119 ], [ 102 ], [ 107 ], [ 100 ] ],
+      "startTime" : "14:30"
+    }, {
+      "endTime" : "16:20",
+      "sessions" : [ [ 100 ], [ 112 ], [ 114 ], [ 104 ], [ 100 ] ],
+      "startTime" : "15:30"
+    }, {
+      "endTime" : "17:20",
+      "sessions" : [ [ 100 ], [ 116 ], [ 1142 ], [ 113 ], [ 100 ] ],
+      "startTime" : "16:30"
+    } ],
+    "tracks" : [ {
+      "title" : "Gevrek"
+    }, {
+      "title" : "Çiğdem"
+    }, {
+      "title" : "Boyoz"
+    }, {
+      "title" : "Kumru"
+    }, {
+      "title" : "Darı"
+    } ]
+  } ],
+  "sessions" : {
     "97" : {
       "description" : "",
       "id" : 97,
@@ -252,16 +230,6 @@
       "tags" : [ "Firebase", "Cordova" ],
       "title" : "Develop Mobile App Cordova and Firebase (Part 1)"
     },
-    "1102" : {
-      "complexity" : "",
-      "description" : "",
-      "id" : 1102,
-      "language" : "Turkish",
-      "presentation" : "",
-      "speakers" : [ 16 ],
-      "tags" : [ "Firebase", "Cordova" ],
-      "title" : "Develop Mobile App Cordova and Firebase (Part 2)"
-    },
     "111" : {
       "complexity" : "",
       "description" : "A collection of libraries that help you design robust, testable, and maintainable apps. Start with classes for managing your UI component lifecycle and handling data persistence.",
@@ -301,16 +269,6 @@
       "speakers" : [ 17, 18 ],
       "tags" : [ "Web", "React" ],
       "title" : "React and React-Native Workshop (Part 1)"
-    },
-    "1142" : {
-      "complexity" : "",
-      "description" : "Making a simple client-side web application using 'ReactJS' to cover the solutions of common frontend development problems and then creating a simple cross-platform mobile application using 'React-Native' to study React-Native's approach for developing mobile applications and to show the similarities and differences between those two platforms.",
-      "id" : 1142,
-      "language" : "Turkish",
-      "presentation" : "",
-      "speakers" : [ 17, 18 ],
-      "tags" : [ "Web", "React" ],
-      "title" : "React and React-Native Workshop (Part 2)"
     },
     "115" : {
       "complexity" : "",
@@ -361,608 +319,494 @@
       "speakers" : [ 3 ],
       "tags" : [ "Android" ],
       "title" : "ExoPlayer - Life of a small, open source project in Google"
+    },
+    "1102" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 1102,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 16 ],
+      "tags" : [ "Firebase", "Cordova" ],
+      "title" : "Develop Mobile App Cordova and Firebase (Part 2)"
+    },
+    "1142" : {
+      "complexity" : "",
+      "description" : "Making a simple client-side web application using 'ReactJS' to cover the solutions of common frontend development problems and then creating a simple cross-platform mobile application using 'React-Native' to study React-Native's approach for developing mobile applications and to show the similarities and differences between those two platforms.",
+      "id" : 1142,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 17, 18 ],
+      "tags" : [ "Web", "React" ],
+      "title" : "React and React-Native Workshop (Part 2)"
     }
   },
-  "speakers": [
-    {
-      "bio": "",
-      "company": "Linovi",
-      "companyLogo": "/images/logos/linovi.png",
-      "country": "Izmir, Turkey",
-      "featured": true,
-      "id": 2,
-      "name": "Okan Alper",
-      "photoUrl": "/images/people/okan_alper.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/okanalper/",
-          "name": "LinkedIn"
-        }
-      ],
-      "tags": [
-        "Scalability",
-        "Scala"
-      ],
-      "title": "Founder"
-    },
-    {
-      "bio": "A gold collar worker, with “can do” attitude, who is; Passionate about: Social Entrepreneurship, Renewable Energy; Wondering about: Industrial Design, Data Science, M2M, Mobile World, Behavioral Psychology",
-      "company": "Insider",
-      "companyLogo": "https://media-exp2.licdn.com/mpr/mpr/shrink_100_100/p/3/005/07c/24a/30a90af.png",
-      "country": "Istanbul, Turkey",
-      "featured": true,
-      "id": 6,
-      "name": "Muharrem Derinkök",
-      "photoUrl": "https://media-exp2.licdn.com/media/AAEAAQAAAAAAAA0hAAAAJGI4MzIyZTg1LTI0ZGQtNDE2ZS05YTYwLWQyYjUxODkxNGJjMQ.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/muharremderinkok/",
-          "name": "LinkedIn"
-        }
-      ],
-      "tags": [
-        "Entrepreneurship"
-      ],
-      "title": "VP, Product Management & Co-founder"
-    },
-    {
-      "bio": "",
-      "company": "Google",
-      "companyLogo": "/images/logos/google.svg",
-      "country": "London, UK",
-      "featured": true,
-      "id": 3,
-      "name": "Erdem Güven",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Ferdem_guven.jpg?alt=media&token=ecef1405-b34e-4bcd-be42-367ef4e5b096",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/erdem-guven-9977604/",
-          "name": "LinkedIn"
-        }
-      ],
-      "tags": [
-        "Android",
-        "ExoPlayer"
-      ],
-      "title": "Software Engineer"
-    },
-    {
-      "bio": "Experienced Academician, Postdoctoral Researcher with a demonstrated history of working in the higher education industry. Skilled in Computer Science, Lecturing, Databases, Data Science, and Algorithms. Strong research professional with a Doctor of Philosophy (Ph.D.) focused in Computer Science. Enthusiastic explorer of cultures, worked in 6 countries.",
-      "company": "Bilgisayar Kavramları",
-      "companyLogo": "",
-      "country": "Istanbul, Turkey",
-      "featured": true,
-      "id": 8,
-      "name": "Dr. Şadi Evren Şeker",
-      "photoUrl": "http://sadievrenseker.com/wp/wp-content/uploads/2013/11/Sadi_Seker_17.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/sadiseker/",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/sadievrenseker",
-          "name": "Twitter"
-        }
-      ],
-      "tags": [
-        "Data Science",
-        "MIS"
-      ],
-      "title": "Executive Director"
-    },
-    {
-      "bio": "Lemi Orhan Ergin has been working as Agile Software Craftsman and Agile Practice Lead at iyzico. He completed his undergraduate and graduate degree in Computer Engineering department of Marmara University. He has been actively developing software since 2001. He has worked as software architect, software craftsman, technical leader, team leader, technical coordinator, Scrum Master and Agile coach in dozens of software projects at BYM, GittiGidiyor / eBay and Sony. As a managing partner in ACM, he has provided consulting services to dozens of companies. He has led the establishment of agile software cultures, continuity and sustainability in software teams. He has been sharing his experience about Agile / Scrum, Kanban, Management 3.0, Git, ALM Processes, TDD, Clean Code, Agile Engineering Practices and Software Craftsmanship with hundreds of professionals. He has been a national and international conference speaker. Slides of his talks has been displayed more than 1 million times on the Internet. He works voluntarily in software communities. He is the founder of the Software Craftsmanship Turkey community. He had been the leader of the community and the product owner of Agile Turkey Summit and CraftSummit conferences for two years.",
-      "company": "iyzico",
-      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/company%2Fiyzico.png?alt=media&token=91db85b4-28a1-4aca-a6b9-f69a1c07b515",
-      "country": "Istanbul, Turkey",
-      "featured": true,
-      "id": 21,
-      "name": "Lemi Orhan Ergin",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Flemi_orhan_ergin.jpg?alt=media&token=7f3451df-200b-4d88-b892-43274b07139a",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/lemiorhan/",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/lemiorhan",
-          "name": "GitHub"
-        },
-        {
-          "icon": "website",
-          "link": "http://www.lemiorhanergin.com/",
-          "name": "Website"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/lemiorhan",
-          "name": "Twitter"
-        }
-      ],
-      "tags": [ 
-        "Agile",
-        "Git"
-      ],
-      "title": "Agile Software Craftsman"
-    },
-    {
-      "bio": "",
-      "company": "GelGit",
-      "companyLogo": "http://www.gelgit.com.tr/wp-content/uploads/2017/06/logo-yazili.png",
-      "country": "Istanbul, Turkey",
-      "featured": true,
-      "id": 9,
-      "name": "Austin Kim",
-      "photoUrl": "https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAsTAAAAJDc1YzI3MGE2LTU5YjYtNGE4YS1iN2I5LTBlNDBmYmFkMjA0ZQ.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/austin-kim-6b5aa23/",
-          "name": "LinkedIn"
-        }
-      ],
-      "tags": [
-        "Entrepreneurship"
-      ],
-      "title": "CEO"
-    },
-    {
-      "bio": "Monitise MEA'da Android Developer olarak çalışıyorum. Kotlin ile ilgili gelişmeleri yakından takip ediyorum. Aynı zamanda GDG İzmir organizatörlerinden biriyim.",
-      "company": "Monitise MEA",
-      "companyLogo": "/images/logos/monitise.png",
-      "country": "Izmir, Turkey",
-      "featured": true,
-      "id": 1,
-      "name": "Semih Bozdemir",
-      "photoUrl": "/images/people/semih_bozdemir.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "website",
-          "link": "http://sembozdemir.com",
-          "name": "Website"
-        },
-        {
-          "icon": "gplus",
-          "link": "https://plus.google.com/108953359302210754768/",
-          "name": "Google+"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/sembozdemir",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/sembozdemir",
-          "name": "Twitter"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/sembozdemir",
-          "name": "GitHub"
-        }
-      ],
-      "tags": [
-        "Android",
-        "Kotlin"
-      ],
-      "title": "Android Developer"
-    },
-    {
-      "bio": "Software Development Team Leader at @MonitiseMEA. Hacker, #Linux & #Docker Enthusiast, Believer of Open Source Software. Lives in İzmir, Turkey.",
-      "company": "Monitise MEA",
-      "companyLogo": "/images/logos/monitise.png",
-      "country": "Izmir, Turkey",
-      "featured": true,
-      "id": 4,
-      "name": "Alper Kanat",
-      "photoUrl": "https://en.gravatar.com/userimage/521024/d8aa945423686968593c7cfc45e17122.jpg?size=500",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "http://tr.linkedin.com/in/tunix",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/tunix/",
-          "name": "GitHub"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/tunix",
-          "name": "Twitter"
-        }
-      ],
-      "tags": [
-        "Docker",
-        "Microservices"
-      ],
-      "title": "Software Development Team Leader"
-    },
-    {
-      "bio": "Software developer at kodcu.com, A Docker guy helping the Docker community actively by organising events at Docker Izmir.",
-      "company": "Kodcu",
-      "companyLogo": "/images/logos/kodcu.png",
-      "country": "Izmir, Turkey",
-      "featured": false,
-      "id": 5,
-      "name": "Hakan Özler",
-      "photoUrl": "/images/people/hakan_ozler.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://tr.linkedin.com/in/ozlerhakan",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/ozlerhakan",
-          "name": "GitHub"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/ozlerhakan",
-          "name": "Twitter"
-        }
-      ],
-      "tags": [
-        "Java",
-        "Docker"
-      ],
-      "title": "Software Developer"
-    },
-    {
-      "bio": "I am a software developer currently working on iOS Apps and with Windows, Xamarin and Unity experience.",
-      "company": "Monitise MEA",
-      "companyLogo": "/images/logos/monitise.png",
-      "country": "Istanbul, Turkey",
-      "featured": true,
-      "id": 7,
-      "name": "İlke Uygun",
-      "photoUrl": "https://cdn-images-1.medium.com/max/1200/0*phnCXk91EiUwoLG2.",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/ilke-uygun-9a66265b/",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/ilkeuygun",
-          "name": "Twitter"
-        }
-      ],
-      "tags": [
-        "VR",
-        "AR"
-      ],
-      "title": "Senior Software Developer"
-    },
-    {
-      "bio": "Mert is an Android Engineer, currently focused on developing Android Applications. He is very visible in public conferences and organizer of Android Istanbul, also active member of GDG Istanbul. He is also blogging about android technologies and trends weekly, also love to share his experiences as open source library at github.com. In his quiet time, he loves to draw and travel.",
-      "company": "sahibinden.com",
-      "companyLogo": "http://www.freelogovectors.net/wp-content/uploads/2013/06/sahibinden.com-logo.jpg",
-      "country": "Istanbul, Turkey",
-      "featured": true,
-      "id": 10,
-      "name": "Mert Şimşek",
-      "photoUrl": "https://avatars2.githubusercontent.com/u/11799296?s=460&v=4",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "github",
-          "link": "https://github.com/iammert",
-          "name": "GitHub"
-        }
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Android Engineer"
-    },
-    {
-      "bio": "I do more than 3 years of research and development on Internet of Things",
-      "company": "",
-      "companyLogo": "",
-      "country": "Izmir, Turkey",
-      "featured": false,
-      "id": 11,
-      "name": "Yakut Özcan",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fyakut_ozcan.jpeg?alt=media&token=315978bb-eaf5-4572-901c-f74f0d63a40e",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "github",
-          "link": "https://github.com/yakutozcan",
-          "name": "GitHub"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/yakutozcan",
-          "name": "Twitter"
-        },
-        {
-          "icon": "website",
-          "link": "https://yakutozcan.blogspot.com",
-          "name": "Website"
-        }
-      ],
-      "tags": [
-        "IoT",
-        "Android"
-      ],
-      "title": "IoT Developer"
-    },
-    {
-      "bio": "Ege Üniversitesi Bilgisayar Mühendisliği 2007 lisans, 2009 yüksek lisans mezunuyum. 2014 yılından beri Linovi'de backend developer olarak çalışmaktayım.",
-      "company": "Linovi",
-      "companyLogo": "/images/logos/linovi.png",
-      "country": "Izmir, Turkey",
-      "featured": false,
-      "id": 13,
-      "name": "Övünç Çetin",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fovunc_cetin.JPG?alt=media&token=368c1be4-9b7d-4614-a19f-397b284afbbf",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/ovunccetin/",
-          "name": "Linkedin"
-        }
-      ],
-      "tags": [
-        "AI"
-      ],
-      "title": "Backend Developer"
-    },
-    {
-      "bio": "2009 yılında Yeditepe Üniversitesi Bilgisayar Mühendisliğinden mezun oldum. Daha önce Gittigidiyor, Huawei, Netaş, Avivasa'da çalıştım ve şimdi Monitise'da kıdemli yazılım geliştirici olarak görev alıyorum. Son zamanlarda mikroservis ve cloud teknolojileri, NoSQL, Docker, Kubernetes gibi teknolojiler ile çalışıyorum. Daha önce Spring ve JavaEE üzerinde 7 sene calıştım. Blog yazılarımda Türkiyedeki yazılımcılara faydalı olmaya çalışıyorum.",
-      "company": "Monitise MEA",
-      "companyLogo": "/images/logos/monitise.png",
-      "country": "Izmir, Turkey",
-      "featured": true,
-      "id": 14,
-      "name": "Talha Ocakçı",
-      "photoUrl": "https://pbs.twimg.com/profile_images/827482841772494849/49pbT_pB_400x400.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/talhaocakci/",
-          "name": "Linkedin"
-        },
-        {
-          "icon": "website",
-          "link": "https://medium.com/@talhaocakci",
-          "name": "Website"
-        }
-      ],
-      "tags": [
-        "NoSQL"
-      ],
-      "title": "Software Engineer"
-    },
-    {
-      "bio": "Murat is an Android developer, and blogger. He is dedicated to continuously discovering, evaluating, and implementing new technologies to maximize development efficiency. He's actively involved in the Android community too – writing blog posts, and giving talks.",
-      "company": "dolap.com",
-      "companyLogo": "https://cdn.dolap.com/web/images/logo-1.svg",
-      "country": "Istanbul, Turkey",
-      "featured": true,
-      "id": 15,
-      "name": "Murat Can Bur",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fmurat_can_bur.jpg?alt=media&token=1d4710ab-0439-4970-b47a-03ef154347f2",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "github",
-          "link": "https://github.com/muratcanbur",
-          "name": "GitHub"
-        }
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Android Developer"
-    },
-    {
-      "bio": "",
-      "company": "Konseptiz",
-      "companyLogo": "",
-      "country": "Izmir, Turkey",
-      "featured": false,
-      "id": 16,
-      "name": "Sarp Doruk Aslan",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fsarp_doruk_aslan.jpg?alt=media&token=1d078bd2-7925-445f-b31d-43d630df7dd1",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "github",
-          "link": "https://github.com/sarpdorukaslan",
-          "name": "GitHub"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/sarpdorukaslan",
-          "name": "Twitter"
-        }
-      ],
-      "tags": [
-        "Firebase",
-        "Web"
-      ],
-      "title": "Web Developer"
-    },
-    {
-      "bio": "I’ve been working on front-end web development for Linovi since last year. For two years, following and investigating new technologies occurring on front-end world and happy to learn anything that is related with JavaScript especially focusing on technologies for “React.JS” and “Angular.JS”.",
-      "company": "Linovi",
-      "companyLogo": "/images/logos/linovi.png",
-      "country": "Izmir, Turkey",
-      "featured": false,
-      "id": 17,
-      "name": "Ali Sait Bilgi",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fali_sait_bilgi.PNG?alt=media&token=99f571cf-88a6-4a56-9a30-5a0bdbb5f9cd",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "github",
-          "link": "https://github.com/alisaitbilgi",
-          "name": "GitHub"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/ali-sait-bilgi-7a98b6127",
-          "name": "Linkedin"
-        }
-      ],
-      "tags": [
-        "React",
-        "Web"
-      ],
-      "title": "Software Engineer"
-    },
-    {
-      "bio": "Frontend Engineer at Linovi, MSc student at Iztech focusing on Computer Vision, Open Source Hobbyist, Amateur Photographer, Cyclist",
-      "company": "Linovi",
-      "companyLogo": "/images/logos/linovi.png",
-      "country": "Izmir, Turkey",
-      "featured": false,
-      "id": 18,
-      "name": "Onur Temizkan",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fonur_temizkan.jpg?alt=media&token=db99752d-7267-415e-a209-8394925b496c",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "github",
-          "link": "https://github.com/onurtemizkan",
-          "name": "GitHub"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/onurtemizkan/",
-          "name": "Linkedin"
-        }
-      ],
-      "tags": [
-        "React",
-        "Web"
-      ],
-      "title": "Software Engineer"
-    },
-    {
-      "bio": "Graduated from İzmir Buca Anadolu Lisesi, Graduated from computer science engineering Marmara University, Working in sahibinden.com for 4 years as QA & Test Automation Engineer, 2 years social voluentering with AIESEC, Several social projects in Youth in Action programe",
-      "company": "sahibinden.com",
-      "companyLogo": "http://www.freelogovectors.net/wp-content/uploads/2013/06/sahibinden.com-logo.jpg",
-      "country": "Istanbul, Turkey",
-      "featured": false,
-      "id": 19,
-      "name": "Burak Ergören",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fburak_ergoren.jpg?alt=media&token=ff7da4c4-f910-4ffe-888e-ab0616f0a75f",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/burakergoren/",
-          "name": "Linkedin"
-        }
-      ],
-      "tags": [
-        "QA",
-        "Test"
-      ],
-      "title": "Software QA Engineer"
-    },
-    {
-      "bio": "2010 yılından beri yazılım geliştiriyor. 2014-2016 yılları arasında mobil uygulama geliştirme takımına liderlik yaptı. 1,5 senedir Freelance iOS geliştiricisi olarak çalışıyor. Yerli ve yabancı birçok projede farklı pozisyonlarda görev aldı. Aktif olarak çalıştığı projelerinin yanısıra kendi projelerini de geliştiriyor ve çeşitli blog sitelerinde girişimcilik ve yazılım üzerine yazılar yazıyor.",
-      "company": "",
-      "companyLogo": "",
-      "country": "Istanbul, Turkey",
-      "featured": false,
-      "id": 12,
-      "name": "Celil Bozkurt",
-      "photoUrl": "https://i.hizliresim.com/zJpX5D.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/celilbozkurt",
-          "name": "Twitter"
-        }
-      ],
-      "tags": [
-        "Mobile"
-      ],
-      "title": "iOS Developer"
-    },
-    {
-      "bio": "Computer engineering student at Dumlupinar University. Android Developer. Android and Firebase blogger. GDG Kutahya Organizer.",
-      "company": "GDG Kütahya",
-      "companyLogo": "",
-      "country": "Kütahya, Turkey",
-      "featured": false,
-      "id": 20,
-      "name": "Sinan Yılmaz",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fsinan_yilmaz.jpg?alt=media&token=efb325e8-e1ca-4924-9ffd-44728e909c22",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "website",
-          "link": "http://medium.com/@sinanyilmaz",
-          "name": "Website"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/sinannnyilmaz",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/sinannnyilmaz",
-          "name": "Twitter"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/SinanYilmaz9",
-          "name": "GitHub"
-        }
-      ],
-      "tags": [
-        "Firebase",
-        "Android"
-      ],
-      "title": "Android Developer"
+  "speakers" : [ {
+    "bio" : "",
+    "company" : "Linovi",
+    "companyLogo" : "/images/logos/linovi.png",
+    "country" : "Izmir, Turkey",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Okan Alper",
+    "photoUrl" : "/images/people/okan_alper.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/okanalper/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Scalability", "Scala" ],
+    "title" : "Founder"
+  }, {
+    "bio" : "A gold collar worker, with “can do” attitude, who is; Passionate about: Social Entrepreneurship, Renewable Energy; Wondering about: Industrial Design, Data Science, M2M, Mobile World, Behavioral Psychology",
+    "company" : "Insider",
+    "companyLogo" : "https://media-exp2.licdn.com/mpr/mpr/shrink_100_100/p/3/005/07c/24a/30a90af.png",
+    "country" : "Istanbul, Turkey",
+    "featured" : true,
+    "id" : 6,
+    "name" : "Muharrem Derinkök",
+    "photoUrl" : "https://media-exp2.licdn.com/media/AAEAAQAAAAAAAA0hAAAAJGI4MzIyZTg1LTI0ZGQtNDE2ZS05YTYwLWQyYjUxODkxNGJjMQ.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/muharremderinkok/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Entrepreneurship" ],
+    "title" : "VP, Product Management & Co-founder"
+  }, {
+    "bio" : "",
+    "company" : "Google",
+    "companyLogo" : "/images/logos/google.svg",
+    "country" : "London, UK",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Erdem Güven",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Ferdem_guven.jpg?alt=media&token=ecef1405-b34e-4bcd-be42-367ef4e5b096",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/erdem-guven-9977604/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Android", "ExoPlayer" ],
+    "title" : "Software Engineer"
+  }, {
+    "bio" : "Experienced Academician, Postdoctoral Researcher with a demonstrated history of working in the higher education industry. Skilled in Computer Science, Lecturing, Databases, Data Science, and Algorithms. Strong research professional with a Doctor of Philosophy (Ph.D.) focused in Computer Science. Enthusiastic explorer of cultures, worked in 6 countries.",
+    "company" : "Bilgisayar Kavramları",
+    "companyLogo" : "",
+    "country" : "Istanbul, Turkey",
+    "featured" : true,
+    "id" : 8,
+    "name" : "Dr. Şadi Evren Şeker",
+    "photoUrl" : "http://sadievrenseker.com/wp/wp-content/uploads/2013/11/Sadi_Seker_17.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/sadiseker/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/sadievrenseker",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Data Science", "MIS" ],
+    "title" : "Executive Director"
+  }, {
+    "bio" : "Lemi Orhan Ergin has been working as Agile Software Craftsman and Agile Practice Lead at iyzico. He completed his undergraduate and graduate degree in Computer Engineering department of Marmara University. He has been actively developing software since 2001. He has worked as software architect, software craftsman, technical leader, team leader, technical coordinator, Scrum Master and Agile coach in dozens of software projects at BYM, GittiGidiyor / eBay and Sony. As a managing partner in ACM, he has provided consulting services to dozens of companies. He has led the establishment of agile software cultures, continuity and sustainability in software teams. He has been sharing his experience about Agile / Scrum, Kanban, Management 3.0, Git, ALM Processes, TDD, Clean Code, Agile Engineering Practices and Software Craftsmanship with hundreds of professionals. He has been a national and international conference speaker. Slides of his talks has been displayed more than 1 million times on the Internet. He works voluntarily in software communities. He is the founder of the Software Craftsmanship Turkey community. He had been the leader of the community and the product owner of Agile Turkey Summit and CraftSummit conferences for two years.",
+    "company" : "iyzico",
+    "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/company%2Fiyzico.png?alt=media&token=91db85b4-28a1-4aca-a6b9-f69a1c07b515",
+    "country" : "Istanbul, Turkey",
+    "featured" : true,
+    "id" : 21,
+    "name" : "Lemi Orhan Ergin",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Flemi_orhan_ergin.jpg?alt=media&token=7f3451df-200b-4d88-b892-43274b07139a",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/lemiorhan/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/lemiorhan",
+      "name" : "GitHub"
+    }, {
+      "icon" : "website",
+      "link" : "http://www.lemiorhanergin.com/",
+      "name" : "Website"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/lemiorhan",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Agile", "Git" ],
+    "title" : "Agile Software Craftsman"
+  }, {
+    "bio" : "",
+    "company" : "GelGit",
+    "companyLogo" : "http://www.gelgit.com.tr/wp-content/uploads/2017/06/logo-yazili.png",
+    "country" : "Istanbul, Turkey",
+    "featured" : true,
+    "id" : 9,
+    "name" : "Austin Kim",
+    "photoUrl" : "https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAsTAAAAJDc1YzI3MGE2LTU5YjYtNGE4YS1iN2I5LTBlNDBmYmFkMjA0ZQ.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/austin-kim-6b5aa23/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Entrepreneurship" ],
+    "title" : "CEO"
+  }, {
+    "bio" : "Monitise MEA'da Android Developer olarak çalışıyorum. Kotlin ile ilgili gelişmeleri yakından takip ediyorum. Aynı zamanda GDG İzmir organizatörlerinden biriyim.",
+    "company" : "Monitise MEA",
+    "companyLogo" : "/images/logos/monitise.png",
+    "country" : "Izmir, Turkey",
+    "featured" : true,
+    "id" : 1,
+    "name" : "Semih Bozdemir",
+    "photoUrl" : "/images/people/semih_bozdemir.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "website",
+      "link" : "http://sembozdemir.com",
+      "name" : "Website"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/108953359302210754768/",
+      "name" : "Google+"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/sembozdemir",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/sembozdemir",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/sembozdemir",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Android", "Kotlin" ],
+    "title" : "Android Developer"
+  }, {
+    "bio" : "Software Development Team Leader at @MonitiseMEA. Hacker, #Linux & #Docker Enthusiast, Believer of Open Source Software. Lives in İzmir, Turkey.",
+    "company" : "Monitise MEA",
+    "companyLogo" : "/images/logos/monitise.png",
+    "country" : "Izmir, Turkey",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Alper Kanat",
+    "photoUrl" : "https://en.gravatar.com/userimage/521024/d8aa945423686968593c7cfc45e17122.jpg?size=500",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "http://tr.linkedin.com/in/tunix",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/tunix/",
+      "name" : "GitHub"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/tunix",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Docker", "Microservices" ],
+    "title" : "Software Development Team Leader"
+  }, {
+    "bio" : "Software developer at kodcu.com, A Docker guy helping the Docker community actively by organising events at Docker Izmir.",
+    "company" : "Kodcu",
+    "companyLogo" : "/images/logos/kodcu.png",
+    "country" : "Izmir, Turkey",
+    "featured" : false,
+    "id" : 5,
+    "name" : "Hakan Özler",
+    "photoUrl" : "https://pbs.twimg.com/profile_images/930349870820585473/WmQs5Xj8_400x400.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://tr.linkedin.com/in/ozlerhakan",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/ozlerhakan",
+      "name" : "GitHub"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/ozlerhakan",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Java", "Docker" ],
+    "title" : "Software Developer"
+  }, {
+    "bio" : "I am a software developer currently working on iOS Apps and with Windows, Xamarin and Unity experience.",
+    "company" : "Monitise MEA",
+    "companyLogo" : "/images/logos/monitise.png",
+    "country" : "Istanbul, Turkey",
+    "featured" : true,
+    "id" : 7,
+    "name" : "İlke Uygun",
+    "photoUrl" : "https://cdn-images-1.medium.com/max/1200/0*phnCXk91EiUwoLG2.",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/ilke-uygun-9a66265b/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/ilkeuygun",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "VR", "AR" ],
+    "title" : "Senior Software Developer"
+  }, {
+    "bio" : "Mert is an Android Engineer, currently focused on developing Android Applications. He is very visible in public conferences and organizer of Android Istanbul, also active member of GDG Istanbul. He is also blogging about android technologies and trends weekly, also love to share his experiences as open source library at github.com. In his quiet time, he loves to draw and travel.",
+    "company" : "sahibinden.com",
+    "companyLogo" : "http://www.freelogovectors.net/wp-content/uploads/2013/06/sahibinden.com-logo.jpg",
+    "country" : "Istanbul, Turkey",
+    "featured" : true,
+    "id" : 10,
+    "name" : "Mert Şimşek",
+    "photoUrl" : "https://avatars2.githubusercontent.com/u/11799296?s=460&v=4",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/iammert",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Android Engineer"
+  }, {
+    "bio" : "I do more than 3 years of research and development on Internet of Things",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Izmir, Turkey",
+    "featured" : false,
+    "id" : 11,
+    "name" : "Yakut Özcan",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fyakut_ozcan.jpeg?alt=media&token=315978bb-eaf5-4572-901c-f74f0d63a40e",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/yakutozcan",
+      "name" : "GitHub"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/yakutozcan",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://yakutozcan.blogspot.com",
+      "name" : "Website"
+    } ],
+    "tags" : [ "IoT", "Android" ],
+    "title" : "IoT Developer"
+  }, {
+    "bio" : "Ege Üniversitesi Bilgisayar Mühendisliği 2007 lisans, 2009 yüksek lisans mezunuyum. 2014 yılından beri Linovi'de backend developer olarak çalışmaktayım.",
+    "company" : "Linovi",
+    "companyLogo" : "/images/logos/linovi.png",
+    "country" : "Izmir, Turkey",
+    "featured" : false,
+    "id" : 13,
+    "name" : "Övünç Çetin",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fovunc_cetin.JPG?alt=media&token=368c1be4-9b7d-4614-a19f-397b284afbbf",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/ovunccetin/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "AI" ],
+    "title" : "Backend Developer"
+  }, {
+    "bio" : "2009 yılında Yeditepe Üniversitesi Bilgisayar Mühendisliğinden mezun oldum. Daha önce Gittigidiyor, Huawei, Netaş, Avivasa'da çalıştım ve şimdi Monitise'da kıdemli yazılım geliştirici olarak görev alıyorum. Son zamanlarda mikroservis ve cloud teknolojileri, NoSQL, Docker, Kubernetes gibi teknolojiler ile çalışıyorum. Daha önce Spring ve JavaEE üzerinde 7 sene calıştım. Blog yazılarımda Türkiyedeki yazılımcılara faydalı olmaya çalışıyorum.",
+    "company" : "Monitise MEA",
+    "companyLogo" : "/images/logos/monitise.png",
+    "country" : "Izmir, Turkey",
+    "featured" : true,
+    "id" : 14,
+    "name" : "Talha Ocakçı",
+    "photoUrl" : "https://pbs.twimg.com/profile_images/827482841772494849/49pbT_pB_400x400.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/talhaocakci/",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "website",
+      "link" : "https://medium.com/@talhaocakci",
+      "name" : "Website"
+    } ],
+    "tags" : [ "NoSQL" ],
+    "title" : "Software Engineer"
+  }, {
+    "bio" : "Murat is an Android developer, and blogger. He is dedicated to continuously discovering, evaluating, and implementing new technologies to maximize development efficiency. He's actively involved in the Android community too – writing blog posts, and giving talks.",
+    "company" : "dolap.com",
+    "companyLogo" : "https://cdn.dolap.com/web/images/logo-1.svg",
+    "country" : "Istanbul, Turkey",
+    "featured" : true,
+    "id" : 15,
+    "name" : "Murat Can Bur",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fmurat_can_bur.jpg?alt=media&token=1d4710ab-0439-4970-b47a-03ef154347f2",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/muratcanbur",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Android Developer"
+  }, {
+    "bio" : "",
+    "company" : "Konseptiz",
+    "companyLogo" : "",
+    "country" : "Izmir, Turkey",
+    "featured" : false,
+    "id" : 16,
+    "name" : "Sarp Doruk Aslan",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fsarp_doruk_aslan.jpg?alt=media&token=1d078bd2-7925-445f-b31d-43d630df7dd1",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/sarpdorukaslan",
+      "name" : "GitHub"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/sarpdorukaslan",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Firebase", "Web" ],
+    "title" : "Web Developer"
+  }, {
+    "bio" : "I’ve been working on front-end web development for Linovi since last year. For two years, following and investigating new technologies occurring on front-end world and happy to learn anything that is related with JavaScript especially focusing on technologies for “React.JS” and “Angular.JS”.",
+    "company" : "Linovi",
+    "companyLogo" : "/images/logos/linovi.png",
+    "country" : "Izmir, Turkey",
+    "featured" : false,
+    "id" : 17,
+    "name" : "Ali Sait Bilgi",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fali_sait_bilgi.PNG?alt=media&token=99f571cf-88a6-4a56-9a30-5a0bdbb5f9cd",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/alisaitbilgi",
+      "name" : "GitHub"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/ali-sait-bilgi-7a98b6127",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "React", "Web" ],
+    "title" : "Software Engineer"
+  }, {
+    "bio" : "Frontend Engineer at Linovi, MSc student at Iztech focusing on Computer Vision, Open Source Hobbyist, Amateur Photographer, Cyclist",
+    "company" : "Linovi",
+    "companyLogo" : "/images/logos/linovi.png",
+    "country" : "Izmir, Turkey",
+    "featured" : false,
+    "id" : 18,
+    "name" : "Onur Temizkan",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fonur_temizkan.jpg?alt=media&token=db99752d-7267-415e-a209-8394925b496c",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/onurtemizkan",
+      "name" : "GitHub"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/onurtemizkan/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "React", "Web" ],
+    "title" : "Software Engineer"
+  }, {
+    "bio" : "Graduated from İzmir Buca Anadolu Lisesi, Graduated from computer science engineering Marmara University, Working in sahibinden.com for 4 years as QA & Test Automation Engineer, 2 years social voluentering with AIESEC, Several social projects in Youth in Action programe",
+    "company" : "sahibinden.com",
+    "companyLogo" : "http://www.freelogovectors.net/wp-content/uploads/2013/06/sahibinden.com-logo.jpg",
+    "country" : "Istanbul, Turkey",
+    "featured" : false,
+    "id" : 19,
+    "name" : "Burak Ergören",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fburak_ergoren.jpg?alt=media&token=ff7da4c4-f910-4ffe-888e-ab0616f0a75f",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/burakergoren/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "QA", "Test" ],
+    "title" : "Software QA Engineer"
+  }, {
+    "bio" : "2010 yılından beri yazılım geliştiriyor. 2014-2016 yılları arasında mobil uygulama geliştirme takımına liderlik yaptı. 1,5 senedir Freelance iOS geliştiricisi olarak çalışıyor. Yerli ve yabancı birçok projede farklı pozisyonlarda görev aldı. Aktif olarak çalıştığı projelerinin yanısıra kendi projelerini de geliştiriyor ve çeşitli blog sitelerinde girişimcilik ve yazılım üzerine yazılar yazıyor.",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Istanbul, Turkey",
+    "featured" : false,
+    "id" : 12,
+    "name" : "Celil Bozkurt",
+    "photoUrl" : "https://i.hizliresim.com/zJpX5D.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/celilbozkurt",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Mobile" ],
+    "title" : "iOS Developer"
+  }, {
+    "bio" : "Computer engineering student at Dumlupinar University. Android Developer. Android and Firebase blogger. GDG Kutahya Organizer.",
+    "company" : "GDG Kütahya",
+    "companyLogo" : "",
+    "country" : "Kütahya, Turkey",
+    "featured" : false,
+    "id" : 20,
+    "name" : "Sinan Yılmaz",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fsinan_yilmaz.jpg?alt=media&token=efb325e8-e1ca-4924-9ffd-44728e909c22",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "website",
+      "link" : "http://medium.com/@sinanyilmaz",
+      "name" : "Website"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/sinannnyilmaz",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/sinannnyilmaz",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/SinanYilmaz9",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Firebase", "Android" ],
+    "title" : "Android Developer"
+  } ],
+  "tickets" : {
+    "elements" : [ {
+      "currency" : "₺",
+      "ends" : "",
+      "info" : "",
+      "name" : "Free",
+      "price" : 0,
+      "soldOut" : false,
+      "starts" : ""
+    } ],
+    "url" : "https://devfestizmir.eventbrite.com?aff=website"
+  },
+  "userSessions" : {
+    "e0UcSCydoLZuRl8LzeE8NaG3ECw2" : {
+      "102" : true,
+      "110" : true,
+      "114" : true,
+      "117" : true,
+      "1102" : true,
+      "1142" : true
     }
-  ],
-  "tickets": {
-    "elements": [
-      {
-        "currency": "₺",
-        "ends": "",
-        "info": "",
-        "name": "Free",
-        "price": 0,
-        "soldOut": false,
-        "starts": ""
-      }
-    ],
-    "url": "https://devfestizmir.eventbrite.com?aff=website"
   }
 }
