@@ -33,6 +33,16 @@
     {
       "logos": [
         {
+          "logoUrl": "../images/logos/jetbrains.svg",
+          "name": "JetBrains",
+          "url": "https://www.jetbrains.com/"
+        }
+      ],
+      "title": "Hediye Sponsoru"
+    },
+    {
+      "logos": [
+        {
           "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fhdteknohaber.png?alt=media&token=0431f065-92e2-40dd-99c2-cebac2064317",
           "name": "Hdteknohaber",
           "url": "http://www.hdteknohaber.com/"
