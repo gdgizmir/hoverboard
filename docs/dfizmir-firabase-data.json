@@ -59,11 +59,11 @@
       "startTime" : "10:30"
     }, {
       "endTime" : "11:50",
-      "sessions" : [ [ 118 ], [ 108 ], [ 106 ], [ 110 ], [ 100 ] ],
+      "sessions" : [ [ 118 ], [ 108 ], [ 106 ], [ 110 ], [ 121 ] ],
       "startTime" : "11:00"
     }, {
       "endTime" : "12:50",
-      "sessions" : [ [ 101 ], [ 100 ], [ 103 ], [ 1102 ], [ 100 ] ],
+      "sessions" : [ [ 101 ], [ 124 ], [ 103 ], [ 1102 ], [ 1212 ] ],
       "startTime" : "12:00"
     }, {
       "endTime" : "13:30",
@@ -71,19 +71,19 @@
       "startTime" : "12:50"
     }, {
       "endTime" : "14:20",
-      "sessions" : [ [ 117 ], [ 111 ], [ 105 ], [ 109 ], [ 100 ] ],
+      "sessions" : [ [ 117 ], [ 111 ], [ 105 ], [ 109 ], [ 122 ] ],
       "startTime" : "13:30"
     }, {
       "endTime" : "15:20",
-      "sessions" : [ [ 115 ], [ 119 ], [ 102 ], [ 107 ], [ 100 ] ],
+      "sessions" : [ [ 115 ], [ 119 ], [ 102 ], [ 107 ], [ 1222 ] ],
       "startTime" : "14:30"
     }, {
       "endTime" : "16:20",
-      "sessions" : [ [ 100 ], [ 112 ], [ 114 ], [ 104 ], [ 100 ] ],
+      "sessions" : [ [ 120 ], [ 112 ], [ 114 ], [ 104 ], [ 123 ] ],
       "startTime" : "15:30"
     }, {
       "endTime" : "17:20",
-      "sessions" : [ [ 100 ], [ 116 ], [ 1142 ], [ 113 ], [ 100 ] ],
+      "sessions" : [ [ 125 ], [ 116 ], [ 1142 ], [ 113 ], [ 1232 ] ],
       "startTime" : "16:30"
     } ],
     "tracks" : [ {
@@ -320,6 +320,76 @@
       "tags" : [ "Android" ],
       "title" : "ExoPlayer - Life of a small, open source project in Google"
     },
+    "120" : {
+      "complexity" : "",
+      "description" : "Ne yapmalı, ne etmeli, hangi programlama dilini öğrenmeli? Hangi kariyerde para var? Staj ararken nelere dikkat etmeli? Bu oturum sorularla dolu akılların gıdıklanma zamanı.",
+      "id" : 120,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 9 ],
+      "tags" : [ "General" ],
+      "title" : "Boş durma boşa çalış"
+    },
+    "121" : {
+      "complexity" : "",
+      "description" : "Hands on Redis workshop with real application example.",
+      "id" : 121,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 24 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Dive into Redis (Part 1)"
+    },
+    "1212" : {
+      "complexity" : "",
+      "description" : "Hands on Redis workshop with real application example.",
+      "id" : 1212,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 24 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Dive into Redis (Part 2)"
+    },
+    "122" : {
+      "complexity" : "",
+      "description" : "Hands on Kubernetes with live example.",
+      "id" : 122,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 22 ],
+      "tags" : [ "Kubernetes" ],
+      "title" : "Google Cloud Platform, Kubernetes Workshop (Part 1)"
+    },
+    "1222" : {
+      "complexity" : "",
+      "description" : "Hands on Kubernetes with live example.",
+      "id" : 1222,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 22 ],
+      "tags" : [ "Kubernetes" ],
+      "title" : "Google Cloud Platform, Kubernetes Workshop (Part 2)"
+    },
+    "123" : {
+      "complexity" : "",
+      "description" : "We will develop a web chat application via Elixir and Phoenix Framework.",
+      "id" : 123,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 23, 22 ],
+      "tags" : [ "Web" ],
+      "title" : "Elixir and Phoenix Framework (Part 1)"
+    },
+    "1232" : {
+      "complexity" : "",
+      "description" : "We will develop a web chat application via Elixir and Phoenix Framework.",
+      "id" : 1232,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 23, 22 ],
+      "tags" : [ "Web" ],
+      "title" : "Elixir and Phoenix Framework (Part 2)"
+    },
     "1102" : {
       "complexity" : "",
       "description" : "",
@@ -339,6 +409,26 @@
       "speakers" : [ 17, 18 ],
       "tags" : [ "Web", "React" ],
       "title" : "React and React-Native Workshop (Part 2)"
+    },
+    "124" : {
+      "complexity" : "",
+      "description" : "Cloud dediğin böyle olur dedirten Function-As-A-Service konseptini ele alıp, bol demolarla bızık bızık ediyoruz.",
+      "id" : 124,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 9 ],
+      "tags" : [ "Microservices" ],
+      "title" : "Serverless"
+    },
+    "125" : {
+      "complexity" : "",
+      "description" : "Daha önce henüz öğrenciyken İzmir’de kurup, exit yaptığım MobileCrea ile şu anki işim olan UniverList’de uyguladığım doğru ve yanlışlar. Lean Startup Felsefesi, Scrum, yeni bir iş kurarken ekip ve ortaklık seçiminde dikkat edilmesi gerekenler. Doğru geliştirme platformları seçimi ve İzmir’de kendi işinizi kurmak istediğinizde yararlanabileceğiniz fırsatlar, karşılaşabileceğiniz zorluklar. IEEE Bağlantılarının ve elde edeceğiniz diğer bağlantıların hayatınızda değiştirebilecekleri.",
+      "id" : 125,
+      "language" : "Turkish",
+      "presentation" : "",
+      "speakers" : [ 25 ],
+      "tags" : [ "Entrepreneurship" ],
+      "title" : "Startup from Scratch - Product, Team, Development"
     }
   },
   "speakers" : [ {
@@ -440,25 +530,29 @@
       "link" : "https://twitter.com/lemiorhan",
       "name" : "Twitter"
     } ],
-    "tags" : [ "Agile", "Git" ],
+    "tags" : [ "Git", "Agile" ],
     "title" : "Agile Software Craftsman"
   }, {
-    "bio" : "",
-    "company" : "GelGit",
-    "companyLogo" : "http://www.gelgit.com.tr/wp-content/uploads/2017/06/logo-yazili.png",
+    "bio" : "Writer, Speaker, Photographer, CTO @XOMNI_Cloud and @xogo_signage, Azure @MVPAward, @Microsoft Regional Director",
+    "company" : "XOGO",
+    "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/company%2Fxogo.png?alt=media&token=9ed098eb-5cce-4927-b050-8050dae27939",
     "country" : "Istanbul, Turkey",
     "featured" : true,
     "id" : 9,
-    "name" : "Austin Kim",
-    "photoUrl" : "https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAsTAAAAJDc1YzI3MGE2LTU5YjYtNGE4YS1iN2I5LTBlNDBmYmFkMjA0ZQ.jpg",
+    "name" : "Daron Yöndem",
+    "photoUrl" : "https://pbs.twimg.com/profile_images/610080455266799617/1yyCcfUI_400x400.jpg",
     "shortBio" : "",
     "socials" : [ {
       "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/austin-kim-6b5aa23/",
+      "link" : "https://www.linkedin.com/in/daronyondem/",
       "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/daronyondem",
+      "name" : "Twitter"
     } ],
-    "tags" : [ "Entrepreneurship" ],
-    "title" : "CEO"
+    "tags" : [ "Cloud", "Serverless" ],
+    "title" : "CTO"
   }, {
     "bio" : "Monitise MEA'da Android Developer olarak çalışıyorum. Kotlin ile ilgili gelişmeleri yakından takip ediyorum. Aynı zamanda GDG İzmir organizatörlerinden biriyim.",
     "company" : "Monitise MEA",
@@ -641,7 +735,7 @@
       "link" : "https://medium.com/@talhaocakci",
       "name" : "Website"
     } ],
-    "tags" : [ "NoSQL" ],
+    "tags" : [ "Nosql" ],
     "title" : "Software Engineer"
   }, {
     "bio" : "Murat is an Android developer, and blogger. He is dedicated to continuously discovering, evaluating, and implementing new technologies to maximize development efficiency. He's actively involved in the Android community too – writing blog posts, and giving talks.",
@@ -700,7 +794,7 @@
       "link" : "https://www.linkedin.com/in/ali-sait-bilgi-7a98b6127",
       "name" : "Linkedin"
     } ],
-    "tags" : [ "React", "Web" ],
+    "tags" : [ "Web", "React" ],
     "title" : "Software Engineer"
   }, {
     "bio" : "Frontend Engineer at Linovi, MSc student at Iztech focusing on Computer Vision, Open Source Hobbyist, Amateur Photographer, Cyclist",
@@ -721,7 +815,7 @@
       "link" : "https://www.linkedin.com/in/onurtemizkan/",
       "name" : "Linkedin"
     } ],
-    "tags" : [ "React", "Web" ],
+    "tags" : [ "Web", "React" ],
     "title" : "Software Engineer"
   }, {
     "bio" : "Graduated from İzmir Buca Anadolu Lisesi, Graduated from computer science engineering Marmara University, Working in sahibinden.com for 4 years as QA & Test Automation Engineer, 2 years social voluentering with AIESEC, Several social projects in Youth in Action programe",
@@ -738,7 +832,7 @@
       "link" : "https://www.linkedin.com/in/burakergoren/",
       "name" : "Linkedin"
     } ],
-    "tags" : [ "QA", "Test" ],
+    "tags" : [ "Test", "QA" ],
     "title" : "Software QA Engineer"
   }, {
     "bio" : "2010 yılından beri yazılım geliştiriyor. 2014-2016 yılları arasında mobil uygulama geliştirme takımına liderlik yaptı. 1,5 senedir Freelance iOS geliştiricisi olarak çalışıyor. Yerli ve yabancı birçok projede farklı pozisyonlarda görev aldı. Aktif olarak çalıştığı projelerinin yanısıra kendi projelerini de geliştiriyor ve çeşitli blog sitelerinde girişimcilik ve yazılım üzerine yazılar yazıyor.",
@@ -786,6 +880,90 @@
     } ],
     "tags" : [ "Firebase", "Android" ],
     "title" : "Android Developer"
+  }, {
+    "bio" : "Distributed fault tolerant systems, heavy loads, cloud apps.",
+    "company" : "Zetaops",
+    "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/company%2Fzetaops.png?alt=media&token=096a8847-cd4e-41cb-8912-93a6ca959bcf",
+    "country" : "Izmir, Turkey",
+    "featured" : false,
+    "id" : 22,
+    "name" : "Gökhan Boranalp",
+    "photoUrl" : "/images/people/gokhan_boranalp.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/gokhanboranalp/ ",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/zetaops",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/kunthar/",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Cloud" ],
+    "title" : "CEO"
+  }, {
+    "bio" : "BSc Student at Iztech focusing on Free Software as Hobbyist and Working at @zetaops - I'm always trying to produce original and free things and also try to be a pursuer of the wisdom.",
+    "company" : "Zetaops",
+    "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/company%2Fzetaops.png?alt=media&token=096a8847-cd4e-41cb-8912-93a6ca959bcf",
+    "country" : "Izmir, Turkey",
+    "featured" : false,
+    "id" : 23,
+    "name" : "Özgür Fırat Çınar",
+    "photoUrl" : "https://pbs.twimg.com/profile_images/713101160291430400/00QPB2yC_400x400.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/hiorws/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/hiorws",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/hiorws",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Web", "Elixir" ],
+    "title" : "Software Developer"
+  }, {
+    "bio" : "Currently trying to get what's happening in concurrent environment of life in a code. Using Python, Java and what else comes handy to solve problems.",
+    "company" : "Zetaops",
+    "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/company%2Fzetaops.png?alt=media&token=096a8847-cd4e-41cb-8912-93a6ca959bcf",
+    "country" : "Izmir, Turkey",
+    "featured" : false,
+    "id" : 24,
+    "name" : "Anıl Can Aydın",
+    "photoUrl" : "https://avatars2.githubusercontent.com/u/7424220?s=400&u=afc95e83256e91bb0db1829b2547b0cbafd79351&v=4",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/anlcnydn",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Cloud", "Redis" ],
+    "title" : "Software Developer"
+  }, {
+    "bio" : "Araş.Gör. Murat Ödemiş  Yaşar Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği Bölümü, UniverList Kurucusu \nI am an engineer and entrepreneur who creates web and mobile-based applications in the light of this mentality. I have worked on over 50 projects, and have handled a lot of types of technology. \nI believe that a qualified engineer should consider user experience and be knowledgeable about user interface designs.I am eager to be one of them. I enjoy designing user interfaces and drawing project scenarios as much as coding. I trust flat design. In my opinion, plans are the most successful when they are as simple as possible without it hindering their functionality ",
+    "company" : "UniverList",
+    "companyLogo" : "https://univerlist.com/static/site/images/logo.png",
+    "country" : "Izmir, Turkey",
+    "featured" : false,
+    "id" : 25,
+    "name" : "Murat Ödemiş",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fmurat_odemis.png?alt=media&token=bdd2f82a-7c5b-4e8e-84b3-32d7f2b644be",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/mrtodemis/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Entrepreneurship" ],
+    "title" : "CEO, Researcher"
   } ],
   "tickets" : {
     "elements" : [ {
@@ -794,12 +972,55 @@
       "info" : "",
       "name" : "Free",
       "price" : 0,
-      "soldOut" : false,
+      "soldOut" : true,
       "starts" : ""
     } ],
     "url" : "https://devfestizmir.eventbrite.com?aff=website"
   },
   "userSessions" : {
+    "0V64NVpsVCRBgu390AfYNqq8NG12" : {
+      "98" : true
+    },
+    "0Wyg0hRdQHP6fR0KuOQxBmg52283" : {
+      "108" : true,
+      "111" : true,
+      "112" : true,
+      "116" : true
+    },
+    "24G5Rc5AeVSdHyvqnNpSEspyRAD3" : {
+      "97" : true,
+      "98" : true,
+      "101" : true,
+      "102" : true,
+      "104" : true,
+      "112" : true,
+      "115" : true,
+      "117" : true,
+      "118" : true,
+      "119" : true,
+      "120" : true
+    },
+    "32MlmgfuzVZkjpwrzFwY6Fe0Mbg2" : {
+      "97" : true,
+      "98" : true
+    },
+    "NO5P0D5L6OPDPrEVeNbznw6qwyV2" : {
+      "98" : true
+    },
+    "O1OSvyhUDMVQ63w7jV6MPdoQcpB3" : {
+      "118" : true
+    },
+    "TUrD8W39bAPFwMWqG5fDjSdem063" : {
+      "97" : true,
+      "98" : true,
+      "101" : true,
+      "109" : true,
+      "114" : true,
+      "1142" : true
+    },
+    "awRU3IgKE3cJXqNvjvAInQDjLfe2" : {
+      "98" : true
+    },
     "e0UcSCydoLZuRl8LzeE8NaG3ECw2" : {
       "102" : true,
       "110" : true,
@@ -807,6 +1028,22 @@
       "117" : true,
       "1102" : true,
       "1142" : true
+    },
+    "kQqg9XDK3WX4hh5a8dq6Enwcnx82" : {
+      "101" : true,
+      "102" : true,
+      "108" : true,
+      "109" : true,
+      "116" : true,
+      "120" : true
+    },
+    "l8pV0jGHNffkzonNWbf23BDhsNV2" : {
+      "114" : true,
+      "118" : true
+    },
+    "vmAxJP3dS9br7eD3RbnqEEl1M292" : {
+      "114" : true,
+      "1212" : true
     }
   }
 }
