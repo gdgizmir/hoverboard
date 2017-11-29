@@ -59,7 +59,7 @@
       "startTime" : "10:30"
     }, {
       "endTime" : "11:50",
-      "sessions" : [ [ 118 ], [ 108 ], [ 106 ], [ 110 ], [ 121 ] ],
+      "sessions" : [ [ 115 ], [ 108 ], [ 106 ], [ 110 ], [ 121 ] ],
       "startTime" : "11:00"
     }, {
       "endTime" : "12:50",
@@ -71,11 +71,11 @@
       "startTime" : "12:50"
     }, {
       "endTime" : "14:20",
-      "sessions" : [ [ 117 ], [ 111 ], [ 105 ], [ 109 ], [ 122 ] ],
+      "sessions" : [ [ 118 ], [ 111 ], [ 105 ], [ 109 ], [ 122 ] ],
       "startTime" : "13:30"
     }, {
       "endTime" : "15:20",
-      "sessions" : [ [ 115 ], [ 119 ], [ 102 ], [ 107 ], [ 1222 ] ],
+      "sessions" : [ [ 117 ], [ 119 ], [ 102 ], [ 107 ], [ 1222 ] ],
       "startTime" : "14:30"
     }, {
       "endTime" : "16:20",
@@ -276,7 +276,7 @@
       "id" : 115,
       "language" : "Turkish",
       "presentation" : "",
-      "speakers" : [ 6 ],
+      "speakers" : [ 6, 27 ],
       "tags" : [ "Entrepreneurship" ],
       "title" : "Scaling Your Engineering Culture"
     },
@@ -356,7 +356,7 @@
       "id" : 122,
       "language" : "Turkish",
       "presentation" : "",
-      "speakers" : [ 22 ],
+      "speakers" : [ 22, 26 ],
       "tags" : [ "Kubernetes" ],
       "title" : "Google Cloud Platform, Kubernetes Workshop (Part 1)"
     },
@@ -366,7 +366,7 @@
       "id" : 1222,
       "language" : "Turkish",
       "presentation" : "",
-      "speakers" : [ 22 ],
+      "speakers" : [ 22, 26 ],
       "tags" : [ "Kubernetes" ],
       "title" : "Google Cloud Platform, Kubernetes Workshop (Part 2)"
     },
@@ -451,7 +451,7 @@
   }, {
     "bio" : "A gold collar worker, with “can do” attitude, who is; Passionate about: Social Entrepreneurship, Renewable Energy; Wondering about: Industrial Design, Data Science, M2M, Mobile World, Behavioral Psychology",
     "company" : "Insider",
-    "companyLogo" : "https://media-exp2.licdn.com/mpr/mpr/shrink_100_100/p/3/005/07c/24a/30a90af.png",
+    "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/company%2Finsider.png?alt=media&token=bb3ad967-7d6e-4e05-9d96-170ebeea84a8",
     "country" : "Istanbul, Turkey",
     "featured" : true,
     "id" : 6,
@@ -964,6 +964,40 @@
     } ],
     "tags" : [ "Entrepreneurship" ],
     "title" : "CEO, Researcher"
+  }, {
+    "bio" : "Experiencing cloud application deployment and automation in my daily life.",
+    "company" : "Zetaops",
+    "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/company%2Fzetaops.png?alt=media&token=096a8847-cd4e-41cb-8912-93a6ca959bcf",
+    "country" : "Izmir, Turkey",
+    "featured" : false,
+    "id" : 26,
+    "name" : "Cem Güreşçi",
+    "photoUrl" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAIAAgDGAAAAAQAAAAAAAA2RAAAAJDc4ZTNmN2E4LTk2YzItNGU4OC1iOTA3LTk5NTI3ZGFmOWMxNQ.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/dyrnade",
+      "name" : "Github"
+    } ],
+    "tags" : [ "Kubernetes" ],
+    "title" : "DevOps"
+  }, {
+    "bio" : "",
+    "company" : "Insider",
+    "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/company%2Finsider.png?alt=media&token=bb3ad967-7d6e-4e05-9d96-170ebeea84a8",
+    "country" : "Istanbul, Turkey",
+    "featured" : false,
+    "id" : 27,
+    "name" : "Ersoy Pembe",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/people%2Fersoy_pembe.jpeg?alt=media&token=64a48d1b-d593-4496-8c24-7f7f71b75515",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/ersoy-pembe-1aa96520/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Senior Software Engineer"
   } ],
   "tickets" : {
     "elements" : [ {
