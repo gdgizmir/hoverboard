@@ -44,6 +44,10 @@
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fwebmasto.png?alt=media&token=cc8f65a0-1553-4a39-b182-c3b591b0a7cb",
       "name" : "Webmasto",
       "url" : "http://webmasto.com/"
+    }, {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fbtnet.png?alt=media&token=eb273196-d7d3-49ec-a571-f335bf291215",
+      "name" : "btnet",
+      "url" : "http://www.btnet.com.tr/"
     } ],
     "title" : "Medya Sponsorları"
   }, {
@@ -94,9 +98,9 @@
       "sessions" : [ [ 125 ], [ 116 ], [ 1142 ], [ 113 ], [ 1232 ] ],
       "startTime" : "16:30"
     }, {
-      "endTime" : "17:30",
+      "endTime" : "18:00",
       "sessions" : [ [ 96 ] ],
-      "startTime" : "18:00"
+      "startTime" : "17:30"
     } ],
     "tracks" : [ {
       "title" : "Gevrek"
@@ -1056,6 +1060,9 @@
       "97" : true,
       "98" : true
     },
+    "9rEQ2YxyqjbukzZRPOMvhNwdYe82" : {
+      "98" : true
+    },
     "Jx0mmaKwtLYn1vNX3Ccp6DoHXnw1" : {
       "115" : true,
       "117" : true
@@ -1065,6 +1072,14 @@
     },
     "O1OSvyhUDMVQ63w7jV6MPdoQcpB3" : {
       "118" : true
+    },
+    "OrDC72nJMYMOvwk8ky7WOvhANSo2" : {
+      "104" : true,
+      "115" : true,
+      "117" : true,
+      "118" : true,
+      "125" : true,
+      "null" : true
     },
     "OvnXHwYcFdMAa0BkKdBjUUipgq22" : {
       "105" : true,
