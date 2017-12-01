@@ -11,6 +11,10 @@
       "logoUrl" : "../images/logos/linovi.png",
       "name" : "Linovi",
       "url" : "http://www.linovi.com/"
+    }, {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Fakademobi.png?alt=media&token=b8b9e26a-149c-4a73-a15f-41261e067793",
+      "name" : "Akademobi",
+      "url" : "http://akademobi.com/"
     } ],
     "title" : "Altın Sponsor"
   }, {
@@ -25,6 +29,10 @@
       "logoUrl" : "../images/logos/jetbrains.svg",
       "name" : "JetBrains",
       "url" : "https://www.jetbrains.com/"
+    }, {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestizmir17.appspot.com/o/partners%2Ftech.png?alt=media&token=ce2936a4-d3bf-4913-aa78-818ce4e0bfcc",
+      "name" : ".tech",
+      "url" : "http://goo.gl/iVQEkk "
     } ],
     "title" : "Hediye Sponsoru"
   }, {
@@ -85,6 +93,10 @@
       "endTime" : "17:20",
       "sessions" : [ [ 125 ], [ 116 ], [ 1142 ], [ 113 ], [ 1232 ] ],
       "startTime" : "16:30"
+    }, {
+      "endTime" : "17:30",
+      "sessions" : [ [ 96 ] ],
+      "startTime" : "18:00"
     } ],
     "tracks" : [ {
       "title" : "Gevrek"
@@ -99,6 +111,12 @@
     } ]
   } ],
   "sessions" : {
+    "96" : {
+      "description" : "Kapanışı yapıp etkinlik hakkında yorum ve önerilerinizi almak üzere hepinizi bekliyoruz. Gelin tanışalım... :)",
+      "image" : "/images/backgrounds/unconference.jpg",      
+      "id" : 96,
+      "title" : "Closing & GDG Unconference"
+    },
     "97" : {
       "description" : "",
       "id" : 97,
@@ -1038,11 +1056,24 @@
       "97" : true,
       "98" : true
     },
+    "Jx0mmaKwtLYn1vNX3Ccp6DoHXnw1" : {
+      "115" : true,
+      "117" : true
+    },
     "NO5P0D5L6OPDPrEVeNbznw6qwyV2" : {
       "98" : true
     },
     "O1OSvyhUDMVQ63w7jV6MPdoQcpB3" : {
       "118" : true
+    },
+    "OvnXHwYcFdMAa0BkKdBjUUipgq22" : {
+      "105" : true,
+      "114" : true,
+      "121" : true,
+      "122" : true,
+      "1142" : true,
+      "1212" : true,
+      "1222" : true
     },
     "TUrD8W39bAPFwMWqG5fDjSdem063" : {
       "97" : true,
@@ -1078,6 +1109,9 @@
     "vmAxJP3dS9br7eD3RbnqEEl1M292" : {
       "114" : true,
       "1212" : true
+    },
+    "wNfq2mxrLkZlrVOC2yyLPXMbCGt1" : {
+      "null" : true
     }
   }
 }
